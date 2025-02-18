@@ -3910,5 +3910,182 @@
       "name": "Locate and rectify faults in low voltage LV electrical equipment",
       "desc": "This unit focuses on locating and rectifying faults in LV electrical equipment using established procedures. It includes diagnosing issues, repairing or replacing faulty components, and ensuring compliance with safety standards. The unit is essential for maintaining the functionality and safety of electrical systems, particularly in environments where downtime must be minimised. It requires the ability to interpret technical documentation and use diagnostic tools effectively."
     }
+  ],
+  "AUR31120": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit outlines the skills and knowledge required to follow environmental and sustainability best practices in an automotive workplace. It involves complying with workplace procedures, environmental regulations, and implementing sustainability practices to minimise the environmental impact of work activities. The unit applies to individuals working in the automotive industry, ensuring they contribute to reducing waste, conserving resources, and adhering to legal and organisational environmental requirements."
+    },
+    {
+      "code": "AURAFA103",
+      "name": "Communicate effectively in an automotive workplace",
+      "desc": "This unit focuses on developing the skills and knowledge required to follow safe working practices in an automotive workplace. It covers identifying workplace hazards, using personal protective equipment (PPE), and adhering to safety procedures to prevent accidents and injuries. The unit is essential for ensuring a safe working environment and is applicable to individuals across various roles in the automotive industry."
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to solder electrical wiring and circuits in an automotive context. It includes selecting appropriate tools and materials, preparing components, and performing soldering tasks to ensure secure and reliable electrical connections. The unit is critical for automotive electricians and technicians, ensuring they can perform soldering tasks safely and effectively."
+    },
+    {
+      "code": "AURETR006",
+      "name": "Solder electrical wiring and circuits",
+      "desc": "This unit provides the skills and knowledge needed to test and repair basic electrical circuits in automotive systems. It involves using diagnostic tools, interpreting circuit diagrams, and repairing faults to restore functionality. The unit is essential for automotive electricians and technicians, ensuring they can maintain and repair electrical systems in vehicles."
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit focuses on developing effective communication skills for use in an automotive workplace. It covers verbal, written, and non-verbal communication techniques, as well as the ability to follow instructions, provide feedback, and work collaboratively with colleagues. Effective communication is crucial for ensuring safety, efficiency, and teamwork in automotive environments."
+    },
+    {
+      "code": "AURETR122",
+      "name": "Diagnose and repair vehicle dynamic control systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in vehicle dynamic control systems, such as electronic stability control (ESC) and anti-lock braking systems (ABS). It involves preparing for the task, selecting appropriate diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is essential for automotive technicians working on modern vehicles equipped with advanced safety and control systems."
+    },
+    {
+      "code": "AURETR124",
+      "name": "Diagnose and repair compression ignition engine management systems",
+      "desc": "This unit outlines the skills and knowledge required to diagnose and repair faults in compression ignition (diesel) engine management systems. It covers preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is critical for technicians working on diesel-powered vehicles, vessels, or machinery, ensuring they can maintain and repair complex engine management systems."
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test charge and replace batteries and jump-start vehicles",
+      "desc": "This unit focuses on the skills and knowledge required to test, charge, and replace vehicle batteries, as well as jump-start vehicles. It includes preparing for the task, using appropriate tools and equipment, performing battery testing and charging, replacing batteries, and safely jump-starting vehicles."
+    },
+    {
+      "code": "AURETR129",
+      "name": "Diagnose and repair charging systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in vehicle charging systems, including alternators and related components. It involves preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is critical for automotive electricians and technicians, ensuring they can maintain and repair charging systems effectively."
+    },
+    {
+      "code": "AURETR130",
+      "name": "Diagnose and repair starting systems",
+      "desc": "This unit outlines the skills and knowledge required to diagnose and repair faults in vehicle starting systems, including starters and related components. It covers preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is essential for automotive technicians, ensuring they can maintain and repair starting systems effectively."
+    },
+    {
+      "code": "AURETR132",
+      "name": "Diagnose and repair automotive electrical systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair automotive electrical systems. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to electrical systems in various automotive contexts, including wiring, lighting, and electronic components. It requires the use of diagnostic equipment, tools, and materials appropriate for automotive electrical repairs."
+    },
+    {
+      "code": "AURETR135",
+      "name": "Apply knowledge of petrol and diesel engine operation",
+      "desc": "This unit covers the skills and knowledge required to understand and apply the principles of petrol and diesel engine operation. It includes identifying engine components, understanding their functions, and explaining the operational principles of internal combustion engines. The unit is essential for diagnosing and repairing engine-related issues and ensuring efficient engine performance. It applies to both petrol and diesel engines in automotive and heavy vehicle contexts."
+    },
+    {
+      "code": "AURHTB101",
+      "name": "Diagnose and repair heavy vehicle air braking systems",
+      "desc": "This unit focuses on diagnosing and repairing air braking systems in heavy vehicles. It involves identifying faults, testing system components, and performing repairs to ensure the braking system operates safely and efficiently. The unit requires knowledge of air braking system components, their functions, and the procedures for diagnosing and repairing faults. It applies to heavy vehicles such as trucks, buses, and trailers."
+    },
+    {
+      "code": "AURHTD102",
+      "name": "Diagnose and repair heavy vehicle steering systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair steering systems in heavy vehicles. It includes identifying steering system components, diagnosing faults, and performing repairs to ensure safe and efficient steering operation. The unit covers both manual and power steering systems and applies to heavy vehicles such as trucks and buses. It requires the use of appropriate tools and equipment for steering system repairs."
+    },
+    {
+      "code": "AURHTD103",
+      "name": "Diagnose and repair heavy vehicle suspension systems",
+      "desc": "This unit covers the diagnosis and repair of suspension systems in heavy vehicles. It involves identifying suspension system components, diagnosing faults, and performing repairs to ensure safe and efficient vehicle operation. The unit applies to heavy vehicles such as trucks and buses and requires knowledge of suspension system types, components, and repair procedures. It also involves the use of appropriate tools and equipment for suspension system repairs."
+    },
+    {
+      "code": "AURHTE102",
+      "name": "Diagnose and repair heavy vehicle compression ignition engines",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the compression ignition engines of heavy vehicles. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry, including heavy commercial vehicles, agricultural machinery, mobile plant machinery, and marine vessels. It requires the use of diagnostic equipment, tools, and materials specific to compression ignition engines."
+    },
+    {
+      "code": "AURHTQ103",
+      "name": "Diagnose and repair heavy vehicle drive shafts",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair drive shafts in heavy vehicles. It involves identifying faults, testing components, and performing repairs to ensure the drive shaft system operates safely and efficiently. The unit applies to heavy vehicles such as trucks, buses, and trailers. It requires knowledge of drive shaft components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of appropriate tools and equipment for drive shaft repairs."
+    },
+    {
+      "code": "AURHTX103",
+      "name": "Diagnose and repair heavy vehicle automatic transmissions",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair automatic transmissions in heavy vehicles. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to heavy vehicles such as trucks and buses. It requires knowledge of automatic transmission components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of diagnostic equipment, tools, and materials specific to automatic transmissions."
+    },
+    {
+      "code": "AURHTZ101",
+      "name": "Diagnose and repair heavy vehicle emission control systems",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair emission control systems in heavy vehicles. It involves identifying faults, testing system components, and performing repairs to ensure the emission control system operates efficiently and complies with environmental regulations. The unit applies to heavy vehicles such as trucks and buses. It requires knowledge of emission control system components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of appropriate tools and equipment for emission control system repairs."
+    },
+    {
+      "code": "AURTTA006",
+      "name": "Inspect and service hydraulic systems",
+      "desc": "This unit involves the skills and knowledge required to inspect and service hydraulic systems in vehicles or machinery. It includes preparing for the task, inspecting the system for leaks or damage, testing system operation, replacing or repairing faulty components, and completing workplace processes and documentation."
+    },
+    {
+      "code": "AURTTA104",
+      "name": "Carry out servicing operations",
+      "desc": "This unit covers the competencies required to perform routine servicing operations on vehicles or machinery. It encompasses preparing for the task, conducting inspections, replacing fluids and filters, checking and adjusting components, resetting service indicators, and finalising workplace processes and documentation."
+    },
+    {
+      "code": "AURTTA113",
+      "name": "Diagnose and repair hydraulic systems",
+      "desc": "This unit focuses on diagnosing and repairing faults in hydraulic systems of vehicles or machinery. It involves preparing for the task, applying diagnostic procedures to identify faults, repairing or replacing defective components, testing the system for correct operation, and completing required workplace processes and documentation."
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit involves developing and implementing diagnostic test strategies to identify faults in complex systems of vehicles or machinery. It includes researching and selecting appropriate diagnostic procedures, planning and conducting tests, analysing results to pinpoint issues, rectifying identified faults, and completing necessary workplace documentation."
+    },
+    {
+      "code": "AURTTB101",
+      "name": "Inspect and service braking systems",
+      "desc": "This unit covers the skills and knowledge required to inspect and service braking systems in vehicles. It involves preparing for the task, inspecting braking components for wear or damage, testing system functionality, servicing or replacing components as needed, and finalising workplace processes and documentation."
+    },
+    {
+      "code": "AURTTC103",
+      "name": "Diagnose and repair cooling systems",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair cooling systems in vehicles or machinery. It includes preparing for the task, identifying and testing cooling system components, analysing faults, repairing or replacing defective parts, and completing workplace processes and documentation."
+    },
+    {
+      "code": "AURTTE104",
+      "name": "Inspect and service engines",
+      "desc": "This unit covers the competencies required to inspect and service engines in vehicles or machinery. It encompasses preparing for the task, conducting engine inspections, performing necessary servicing operations, testing engine performance, and finalising workplace processes and documentation."
+    },
+    {
+      "code": "AURTTF102",
+      "name": "Inspect and service diesel fuel injection systems",
+      "desc": "This unit focuses on inspecting and servicing diesel fuel injection systems in vehicles or machinery. It involves preparing for the task, examining fuel injection components for wear or damage, performing servicing procedures, testing system functionality, and completing required workplace processes and documentation."
+    },
+    {
+      "code": "AURTTF105",
+      "name": "Diagnose and repair engine forced-induction systems",
+      "desc": "This unit involves diagnosing and repairing engine forced-induction systems, such as turbochargers and superchargers, in vehicles or machinery. It includes preparing for the task, applying diagnostic procedures to identify faults, repairing or replacing defective components, testing system performance, and completing necessary workplace documentation."
+    },
+    {
+      "code": "AURTTK001",
+      "name": "Use and maintain measuring equipment in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge required to use and maintain measuring equipment in an automotive workplace. It involves selecting appropriate measuring devices, accurately measuring components or systems, maintaining and calibrating equipment as per manufacturer specifications, and adhering to workplace procedures and safety requirements."
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit involves the skills and knowledge required to select, use, and maintain tools and equipment in an automotive workplace. It includes identifying the appropriate tools and equipment for specific tasks, operating them according to manufacturer specifications and workplace procedures, performing routine maintenance to ensure their serviceability, and adhering to safety and environmental regulations."
+    },
+    {
+      "code": "AURTTQ001",
+      "name": "Inspect and service final drive assemblies",
+      "desc": "This unit covers the competencies required to inspect and service final drive assemblies in vehicles. It encompasses preparing for the task, conducting inspections to identify wear or damage, performing servicing operations such as adjusting or replacing components, testing the assembly for correct operation, and completing workplace processes and documentation."
+    },
+    {
+      "code": "AURTTX102",
+      "name": "Inspect and service manual transmissions",
+      "desc": "This unit focuses on inspecting and servicing manual transmissions in vehicles. It involves preparing for the task, examining transmission components for signs of wear or damage, performing necessary servicing operations such as replacing fluids or worn parts, testing the transmission for proper functionality, and finalising workplace processes and documentation."
+    },
+    {
+      "code": "AURTTX103",
+      "name": "Inspect and service automatic transmissions",
+      "desc": "This unit involves the skills and knowledge required to inspect and service automatic transmissions in vehicles. It includes preparing for the task, inspecting transmission components for wear or damage, conducting servicing operations such as fluid replacement or filter changes, testing the transmission to ensure correct operation, and completing required workplace documentation."
+    },
+    {
+      "code": "AURVTW018",
+      "name": "Carry out oxyacetylene welding thermal heating and cutting",
+      "desc": "This unit covers the competencies required to perform oxyacetylene welding, thermal heating, and cutting in an automotive context. It encompasses preparing for the task by selecting appropriate equipment and materials, setting up and operating oxyacetylene equipment safely, performing welding, heating, and cutting operations as per specifications, and adhering to workplace safety and environmental procedures."
+    },
+    {
+      "code": "AURVTW101",
+      "name": "Carry out manual metal arc welding on components",
+      "desc": "This unit involves the skills and knowledge required to perform manual metal arc welding (MMAW) on automotive components. It includes preparing for the task by selecting suitable welding equipment and consumables, setting up and operating MMAW equipment safely, performing welding operations to join or repair metal components according to specifications, and following workplace safety and environmental guidelines."
+    }
   ]
 }
