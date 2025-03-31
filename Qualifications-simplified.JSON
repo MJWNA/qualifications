@@ -1,0 +1,193 @@
+{
+  "CPC30220": {
+    "title": "Certificate III in Carpentry - Simplified Requirements",
+    "photoVideo": [
+      "Using Carpentry Tools and Equipment",
+      "Onsite in your PPE",
+      "Carry out Measurements",
+      "Applying Basic Levelling Procedures",
+      "Erect Wall Frames",
+      "Install Windows and Doors",
+      "Construct Ceiling Frames",
+      "Install Exterior Cladding"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "AHC30921": {
+    "title": "Certificate III in Landscape Construction - Simplified Requirements",
+    "photoVideo": [
+      "Setting out a site",
+      "Wearing PPE",
+      "Concrete",
+      "Paving",
+      "Retaining walls",
+      "Timber Structures",
+      "Drainage",
+      "Soft scaping"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC30620": {
+    "title": "Certificate III in Painting and Decorating - Simplified Requirements",
+    "photoVideo": [
+      "Handle and store Materials",
+      "Wearing PPE",
+      "Surface preparation",
+      "Trestle and Plank",
+      "Measuring",
+      "Using tools and equipment",
+      "Apply stains and finishes",
+      "Choosing Paint colours"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC31320": {
+    "title": "Certificate III in Wall and Floor Tiling - Simplified Requirements",
+    "photoVideo": [
+      "Using Tools and equipment",
+      "Wearing PPE",
+      "Surface preparation",
+      "Install floor tiles",
+      "Install Wall Tiles",
+      "Handle Wall and floor tiling materials",
+      "Measuring",
+      "Decorative tiling"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC31020": {
+    "title": "Certificate III in Solid Plastering - Simplified Requirements",
+    "photoVideo": [
+      "Prepare Surfaces",
+      "Use solid plastering Tools",
+      "Wearing PPE",
+      "Trestle and Plank",
+      "Apply float and render",
+      "Carry out measurements",
+      "Apply set coats",
+      "Apply Trowelled texture finishes"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC32620": {
+    "title": "Certificate III in Roof Plumbing - Simplified Requirements",
+    "photoVideo": [
+      "PPE",
+      "Use solid Roof plumbing tools",
+      "Scaffolding",
+      "Levelling",
+      "Cut and join sheet metal",
+      "Carry out measurements",
+      "Fabricate/install External flashings",
+      "Install roof components"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC33020": {
+    "title": "Certificate III in Bricklaying and Blocklaying - Simplified Requirements",
+    "photoVideo": [
+      "PPE",
+      "Use Bricklaying tools",
+      "Handle and prepare materials",
+      "Carry out Setting out",
+      "Levelling",
+      "Carry out measurements",
+      "Masonry Veneer Construction",
+      "Lay Multi thickness walls and piers"
+    ],
+    "documents": [
+      "White Card",
+      "Previous qualifications",
+      "Payslips/invoices",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC40120": {
+    "title": "Certificate IV in Building and Construction - Simplified Requirements",
+    "photoVideo": [
+      "Onsite wearing your PPE",
+      "Site Survey/Setting out",
+      "Site Supervision",
+      "Waste minimisation/Material storage",
+      "On the tools"
+    ],
+    "documents": [
+      "Plans/drawings",
+      "Contracts",
+      "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
+      "Material lists/purchase orders",
+      "Payslips/invoices",
+      "White Card",
+      "Previous qualifications",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  },
+  "CPC50220": {
+    "title": "Diploma of Building and Construction (Building) - Simplified Requirements",
+    "photoVideo": [
+      "Onsite wearing your PPE",
+      "Site Survey/Setting out",
+      "Site Supervision",
+      "Waste minimisation/Material storage",
+      "On the tools"
+    ],
+    "documents": [
+      "Plans/drawings",
+      "Contracts",
+      "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
+      "Material lists/purchase orders",
+      "Payslips/invoices",
+      "White Card",
+      "Previous qualifications",
+      "100 pts of ID",
+      "Resume",
+      "Reference letter"
+    ]
+  }
+} 
