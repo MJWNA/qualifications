@@ -674,7 +674,7 @@
     "photoVideo": [
       {
         "title": "Onsite in your PPE",
-        "description": "Demonstrate proper use of Personal Protective Equipment for fabrication work:\n• Welding helmet/face shield\n• Flame-resistant clothing\n• Leather gloves and aprons\n• Safety glasses and face shields\n• Hearing protection\n• Steel-capped boots\n• Respiratory protection\n\nExamples:\n- Photos of you wearing appropriate PPE for different fabrication tasks\n- Specific PPE for welding, grinding, and cutting\n• Face and eye protection for various processes\n• Proper respiratory protection for different fabrication activities"
+        "description": "Demonstrate proper use of Personal Protective Equipment for fabrication work:\n• Welding helmet/face shield\n• Flame-resistant clothing\n• Leather gloves and aprons\n• Safety glasses and face shields\n• Hearing protection\n• Steel-capped boots\n• Respiratory protection\n\nExamples:\n- Photos of you wearing appropriate PPE for different fabrication tasks\n• Specific PPE for welding, grinding, and cutting\n• Face and eye protection for various processes\n• Proper respiratory protection for different fabrication activities"
       },
       {
         "title": "Using hand tools for fabrication work",
@@ -1903,68 +1903,179 @@
       }
     ]
   },
+  "CPC30420": {
+    "title": "Certificate III in Demolition - Simplified Requirements",
+    "photoVideo": [
+      {
+        "title": "Onsite in your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment for demolition work:\n• Hard hat and face shield/safety glasses\n• High visibility clothing\n• Steel-capped safety boots\n• Respiratory protection (dust masks, respirators)\n• Hearing protection\n• Cut-resistant gloves\n• Fall protection harness when working at heights\n\nExamples:\n- Photos of you wearing appropriate PPE on demolition sites\n• Different PPE configurations for various demolition tasks\n• Leading by example with PPE compliance\n• Task-specific PPE for hazardous materials work"
+      },
+      {
+        "title": "Operating demolition tools and equipment",
+        "description": "Demonstrate safe operation of demolition-specific tools:\n• Jackhammers and breakers\n• Cut-off saws and demolition saws\n• Hydraulic crushers and shears\n• Sledgehammers and manual demolition tools\n• Power tools modified for demolition work\n• Remote-controlled demolition equipment\n• High-reach demolition machinery\n\nExamples:\n- Photos/videos of you using equipment correctly\n• Tool inspection documentation\n• Maintenance records\n• Training certificates for specialized equipment"
+      },
+      {
+        "title": "Hazardous materials identification and handling",
+        "description": "Show ability to identify and safely handle hazardous materials:\n• Asbestos identification and awareness\n• Lead paint identification\n• PCB-containing materials\n• Underground storage tanks\n• Contaminated materials\n• Chemical residues\n• Biological hazards\n\nExamples:\n- Photos of hazardous material identification\n• Material testing documentation\n• Hazardous materials register contributions\n• Safe work procedures implementation"
+      },
+      {
+        "title": "Building assessment and preparation",
+        "description": "Demonstrate pre-demolition assessment skills:\n• Building structural assessment\n• Identifying load-bearing elements\n• Utility disconnection verification\n• Evaluating demolition risks\n• Site preparation activities\n• Establishing exclusion zones\n• Setting up containment systems\n\nExamples:\n- Photos of building assessment activities\n• Pre-demolition checklists\n• Building survey documentation\n• Site preparation planning"
+      },
+      {
+        "title": "Structural demolition techniques",
+        "description": "Show competence in structural demolition methods:\n• Sequential demolition techniques\n• Top-down demolition practices\n• Selective demolition procedures\n• Floor by floor demolition\n• Manual demolition methods\n• Machine-assisted demolition\n• Controlled collapse techniques\n\nExamples:\n- Photos/videos of demolition activities\n• Demolition sequence documentation\n• Method statements implementation\n• Before/after documentation"
+      },
+      {
+        "title": "Using temporary structural supports",
+        "description": "Demonstrate installation of temporary supports:\n• Propping and shoring techniques\n• Installing acrow props\n• Needling and underpinning\n• Bracing unstable structures\n• Installing structural supports\n• Securing adjacent structures\n• Monitoring structural stability\n\nExamples:\n- Photos of installed temporary supports\n• Installation documentation\n• Inspection records\n• Load calculations"
+      },
+      {
+        "title": "Managing demolition waste",
+        "description": "Show waste management capabilities:\n• Sorting demolition materials\n• Identifying recyclable materials\n• Managing contaminated waste\n• Implementing waste minimization\n• Documenting waste disposal\n• Following environmental requirements\n• Using waste tracking systems\n\nExamples:\n- Photos of waste sorting activities\n• Waste management documentation\n• Recycling statistics\n• Waste disposal records"
+      },
+      {
+        "title": "Implementing excavation support systems",
+        "description": "Demonstrate excavation safety measures:\n• Installing shoring systems\n• Setting up battering and benching\n• Implementing ground support systems\n• Managing excavation risks\n• Conducting excavation inspections\n• Monitoring ground conditions\n• Securing excavation perimeters\n\nExamples:\n- Photos of excavation support installations\n• Excavation safety documentation\n• Inspection records\n• Soil classification documentation"
+      },
+      {
+        "title": "Using fall prevention systems",
+        "description": "Show implementation of height safety measures:\n• Setting up edge protection\n• Installing scaffolding systems\n• Using fall arrest equipment\n• Securing openings and voids\n• Implementing roof safety measures\n• Using elevating work platforms\n• Conducting height risk assessments\n\nExamples:\n- Photos of fall prevention installations\n• Height safety documentation\n• Harness inspection records\n• Working at heights permits"
+      },
+      {
+        "title": "Following safe work procedures",
+        "description": "Demonstrate adherence to safety protocols:\n• Following safe work method statements\n• Implementing site safety rules\n• Conducting toolbox talks\n• Responding to safety incidents\n• Using permit systems\n• Implementing exclusion zones\n• Maintaining safety signage\n\nExamples:\n- Photos of safety procedures in action\n• Completed SWMS documentation\n• Safety meeting records\n• Incident reporting documentation"
+      },
+      {
+        "title": "Conducting demolition inspections",
+        "description": "Show inspection capabilities:\n• Conducting pre-start checks\n• Performing ongoing site inspections\n• Identifying structural hazards\n• Assessing demolition progress\n• Verifying safety controls\n• Documenting inspection findings\n• Communicating hazards identified\n\nExamples:\n- Photos of inspection activities\n• Completed inspection checklists\n• Hazard identification documentation\n• Inspection reports"
+      },
+      {
+        "title": "Reading and interpreting demolition plans",
+        "description": "Demonstrate plan interpretation skills:\n• Reading demolition drawings\n• Interpreting engineering instructions\n• Understanding demolition sequencing\n• Identifying critical structural elements\n• Following demolition specifications\n• Implementing plan requirements\n• Communicating plan details to team\n\nExamples:\n- Photos of you working with demolition plans\n• Marked-up demolition drawings\n• Sequence planning documentation\n• Engineering instruction implementation"
+      }
+    ],
+    "documents": [
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in construction or related fields.\n\nExamples:\n- Construction certificates\n- Related technical qualifications\n- Specialized demolition training certificates\n- Trade qualifications"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in demolition roles.\n\nExamples:\n- Recent payslips from demolition employers\n- Invoices for demolition work completed\n- Employment contracts\n- Payment records for demolition services"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on demolition experience.\n\nExamples:\n- Current resume with demolition roles\n- List of significant demolition projects\n- Specialized demolition skills\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from demolition employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters\n- Character references from industry professionals"
+      },
+      {
+        "title": "First aid certificate",
+        "description": "Evidence of first aid training and certification.\n\nExamples:\n- Current first aid certificate\n- CPR certification\n- Workplace first aid training records\n- Emergency response training"
+      },
+      {
+        "title": "Asbestos awareness/removal certification",
+        "description": "Training certificates related to asbestos handling.\n\nExamples:\n- Asbestos awareness certificate\n- Asbestos removal license\n- Non-friable asbestos removal certificate\n- Asbestos-related training records"
+      },
+      {
+        "title": "Demolition license",
+        "description": "Relevant demolition licensing documentation.\n\nExamples:\n- Demolition work license\n- Restricted or unrestricted demolition credentials\n- License renewal documentation\n- Contractor registration"
+      },
+      {
+        "title": "High-risk work licenses",
+        "description": "Licenses for operating specialized equipment.\n\nExamples:\n- Excavator ticket\n- Bobcat/skid steer license\n- Dogging or rigging certificate\n- EWP (elevated work platform) ticket"
+      },
+      {
+        "title": "Safe work method statements",
+        "description": "Documented safety procedures for demolition activities.\n\nExamples:\n- SWMS for specific demolition tasks\n- Task-specific risk assessments\n- Safety procedure documentation\n- Hazard control measures"
+      },
+      {
+        "title": "Demolition work plans",
+        "description": "Plans detailing demolition methodology and sequence.\n\nExamples:\n- Demolition sequencing documents\n- Demolition methodology statements\n- Engineering instructions\n- Structural assessment reports"
+      },
+      {
+        "title": "Waste management records",
+        "description": "Documentation of demolition waste handling.\n\nExamples:\n- Waste disposal certificates\n- Recycling documentation\n- Waste classification records\n- Environmental compliance documentation"
+      },
+      {
+        "title": "Toolbox talk records",
+        "description": "Evidence of participation in safety briefings.\n\nExamples:\n- Signed toolbox talk forms\n- Safety meeting minutes\n- Pre-start briefing records\n- Safety communication documentation"
+      },
+      {
+        "title": "Equipment inspection checklists",
+        "description": "Records of equipment safety checks.\n\nExamples:\n- Plant and equipment inspections\n- Tool maintenance logs\n- Pre-start checklist completion\n- Equipment certification documentation"
+      }
+    ]
+  },
   "CPC41020": {
     "title": "Certificate IV in Demolition - Simplified Requirements",
     "photoVideo": [
       {
         "title": "Onsite in your PPE",
-        "description": "Demonstrate proper use of Personal Protective Equipment for demolition work:\n• Hard hat and safety glasses\n• High visibility clothing\n• Respiratory protection for dust and hazards\n• Steel-capped safety footwear\n• Hearing protection\n• Task-specific protective equipment\n• Fall protection where required\n\nExamples:\n- Photos of you wearing appropriate PPE on demolition sites\n- Different PPE configurations for various demolition tasks\n- Leading by example with PPE compliance\n- Conducting PPE inspections with workers"
+        "description": "Demonstrate proper use of Personal Protective Equipment for advanced demolition work:\n• Hard hat and face shield/safety glasses\n• High visibility clothing\n• Steel-capped safety boots\n• Respiratory protection appropriate for hazards\n• Hearing protection\n• Cut-resistant gloves\n• Task-specific PPE for specialized demolition\n\nExamples:\n- Photos of you wearing appropriate PPE while supervising demolition\n• Different PPE configurations for various hazardous environments\n• Leading by example with PPE compliance\n• Site PPE requirement implementation"
       },
       {
-        "title": "Reading and interpreting demolition plans and reports",
-        "description": "Demonstrate ability to interpret specialized demolition documentation:\n• Reading structural demolition plans\n• Interpreting engineering reports\n• Understanding demolition methodology\n• Identifying critical structural elements\n• Planning demolition sequences\n• Recognizing building services and infrastructure\n\nExamples:\n- Photos of you working with demolition plans\n• Markup of demolition sequences on plans\n• Hazard identification on reports\n• Documentation of demolition planning"
+        "title": "Supervising demolition operations",
+        "description": "Demonstrate supervisory capabilities for demolition projects:\n• Coordinating demolition teams\n• Overseeing complex demolition sequences\n• Managing demolition resources\n• Monitoring safety compliance\n• Implementing project schedules\n• Coordinating with stakeholders\n• Supervising technical demolition tasks\n\nExamples:\n- Photos of supervision activities\n• Team coordination documentation\n• Project management records\n• Site meetings leadership"
       },
       {
-        "title": "Conducting pre-demolition site inspections and risk assessments",
-        "description": "Show thorough site assessment skills:\n• Conducting detailed site surveys\n• Identifying structural conditions\n• Photographing existing conditions\n• Documenting adjacent properties\n• Assessing access and egress points\n• Identifying hazards and risks\n• Preparing risk management plans\n\nExamples:\n- Photos of site inspection activities\n• Completed risk assessment documentation\n• Site inspection reports with annotations\n• Evidence of planning based on inspections"
+        "title": "Planning complex demolition projects",
+        "description": "Show advanced demolition planning skills:\n• Developing demolition methodologies\n• Creating project sequencing plans\n• Planning resource requirements\n• Coordinating multi-phase demolition\n• Developing risk management strategies\n• Planning environmental controls\n• Creating staging and logistics plans\n\nExamples:\n- Photos of planning activities\n• Demolition plans and methodology documents\n• Project schedules and timelines\n• Risk management documentation"
       },
       {
-        "title": "Identifying hazardous materials (e.g. asbestos, lead)",
-        "description": "Demonstrate hazardous materials identification competency:\n• Recognizing potential asbestos-containing materials\n• Identifying lead-based paints\n• Documenting hazardous material locations\n• Sampling protocols and procedures\n• Understanding laboratory testing results\n• Planning hazardous material removal\n• Implementing control measures\n\nExamples:\n- Photos of hazard identification process\n• Hazardous materials register documentation\n• Sampling locations and procedures\n• Safe work procedures around hazardous materials"
+        "title": "Conducting site assessments and surveys",
+        "description": "Demonstrate advanced assessment capabilities:\n• Conducting structural assessments\n• Identifying hazardous materials\n• Assessing demolition risks\n• Documenting existing conditions\n• Evaluating environmental impacts\n• Surveying utility services\n• Assessing ground conditions\n\nExamples:\n- Photos of assessment activities\n• Completed assessment reports\n• Site survey documentation\n• Hazard identification records"
       },
       {
-        "title": "Erecting signage and installing site barriers",
-        "description": "Show site control implementation skills:\n• Setting up proper site perimeters\n• Installing appropriate security fencing\n• Erecting warning and information signage\n• Establishing exclusion zones\n• Creating public protection systems\n• Managing site access points\n• Implementing traffic control measures\n\nExamples:\n- Photos of site setup and controls\n• Proper signage and barrier placement\n• Public protection systems\n• Site access control measures"
+        "title": "Implementing advanced demolition techniques",
+        "description": "Show knowledge of specialized demolition methods:\n• Implementing implosion techniques\n• Managing high-reach demolition\n• Coordinating induced collapse\n• Supervising selective demolition\n• Implementing progressive demolition\n• Managing robotic demolition\n• Overseeing explosive demolition\n\nExamples:\n- Photos of specialized demolition activities\n• Method statements implementation\n• Technical demolition documentation\n• Specialized technique coordination"
       },
       {
-        "title": "Coordinating disconnection of essential services",
-        "description": "Demonstrate management of service disconnections:\n• Identifying all site services\n• Coordinating with utility providers\n• Documenting disconnection processes\n• Verifying service isolations\n• Managing temporary services\n• Emergency shutdown procedures\n• Maintaining service records\n\nExamples:\n- Photos of service disconnection work\n• Service location plans with markups\n• Disconnection certificates and approvals\n• Verification of isolation procedures"
+        "title": "Managing demolition risks",
+        "description": "Demonstrate risk management expertise:\n• Implementing risk control measures\n• Conducting comprehensive risk assessments\n• Managing critical demolition risks\n• Implementing safety systems\n• Monitoring control effectiveness\n• Addressing emerging risks\n• Documenting risk management\n\nExamples:\n- Photos of risk management activities\n• Risk assessment documentation\n• Control measure implementation\n• Safety system management"
       },
       {
-        "title": "Using demolition-specific tools, plant, and equipment",
-        "description": "Show competency with demolition equipment:\n• Operating specialized demolition tools\n• Using remote demolition equipment\n• Hydraulic concrete breakers\n• Wire saws and concrete cutters\n• Selecting appropriate attachments\n• Equipment maintenance and inspection\n• Safe operating procedures\n\nExamples:\n- Photos/videos of equipment operation\n• Specialized tool selection for tasks\n• Equipment inspection documentation\n• Safe operation in demolition environment"
+        "title": "Managing hazardous materials removal",
+        "description": "Show hazardous materials management capabilities:\n• Supervising asbestos removal\n• Managing contaminated materials\n• Implementing decontamination procedures\n• Coordinating specialized removal\n• Ensuring regulatory compliance\n• Monitoring exposure controls\n• Validating clearance procedures\n\nExamples:\n- Photos of hazardous materials management\n• Removal control documentation\n• Clearance certificates\n• Compliance documentation"
       },
       {
-        "title": "Supervising structural dismantling and sequencing",
-        "description": "Demonstrate supervision of demolition processes:\n• Planning dismantling sequences\n• Directing workers and equipment\n• Monitoring structural stability\n• Managing temporary supports\n• Controlling demolition progression\n• Making field decisions based on conditions\n• Adapting to unexpected situations\n\nExamples:\n- Photos of supervised demolition activities\n• Sequencing plans and documentation\n• Team direction and leadership evidence\n• Management of critical demolition phases"
+        "title": "Implementing traffic management plans",
+        "description": "Demonstrate traffic control implementation:\n• Setting up traffic control systems\n• Managing pedestrian access\n• Implementing traffic management plans\n• Coordinating vehicle movements\n• Ensuring public safety\n• Managing site access\n• Implementing signage requirements\n\nExamples:\n- Photos of traffic management implementation\n• Traffic control plans\n• Site access documentation\n• Public protection measures"
       },
       {
-        "title": "Implementing dust suppression and noise control",
-        "description": "Show environmental control implementation:\n• Setting up water suppression systems\n• Using dust extraction equipment\n• Installing noise barriers\n• Scheduling work to minimize impacts\n• Monitoring dust and noise levels\n• Implementing mitigation measures\n• Responding to community concerns\n\nExamples:\n- Photos of dust control systems\n• Noise management implementation\n• Environmental monitoring equipment\n• Control measures in active demolition"
+        "title": "Managing structural stability",
+        "description": "Show structural management expertise:\n• Implementing temporary support systems\n• Monitoring structural integrity\n• Implementing engineering controls\n• Managing progressive stability\n• Identifying structural issues\n• Implementing remedial measures\n• Coordinating engineering input\n\nExamples:\n- Photos of structural management activities\n• Temporary works documentation\n• Structural monitoring records\n• Engineering certification"
       },
       {
-        "title": "Monitoring safety zones and exclusion areas",
-        "description": "Demonstrate safety zone management:\n• Establishing appropriate exclusion zones\n• Monitoring zone compliance\n• Using spotters and sentries\n• Communication systems for zone control\n• Adjusting zones as work progresses\n• Emergency evacuation procedures\n• Public protection measures\n\nExamples:\n- Photos of exclusion zone implementation\n• Monitoring activities and checkpoints\n• Communication systems for zone control\n• Documentation of safety protocols"
+        "title": "Conducting quality inspections",
+        "description": "Demonstrate quality control capabilities:\n• Conducting demolition inspections\n• Verifying work compliance\n• Implementing quality processes\n• Documenting quality outcomes\n• Identifying non-conformances\n• Implementing corrective actions\n• Conducting final inspections\n\nExamples:\n- Photos of inspection activities\n• Quality documentation\n• Inspection reports\n• Compliance verification records"
       },
       {
-        "title": "Removing and disposing of waste and recyclable materials",
-        "description": "Show waste management implementation:\n• Separating waste streams\n• Managing hazardous waste\n• Implementing recycling protocols\n• Tracking waste disposal\n• Maintaining disposal records\n• Complying with environmental regulations\n• Using proper containment systems\n\nExamples:\n- Photos of waste separation activities\n• Different waste stream management\n• Recycling implementation\n• Waste tracking documentation"
+        "title": "Managing environmental controls",
+        "description": "Show environmental management expertise:\n• Implementing dust suppression\n• Managing noise control\n• Implementing erosion controls\n• Managing water runoff\n• Implementing vibration monitoring\n• Preventing environmental contamination\n• Documenting environmental compliance\n\nExamples:\n- Photos of environmental control measures\n• Monitoring documentation\n• Environmental compliance records\n• Control measure implementation"
       },
       {
-        "title": "Operating demolition equipment (e.g. excavators, breakers)",
-        "description": "Demonstrate equipment operation skills:\n• Operating excavators with demolition attachments\n• Using hydraulic breakers\n• Operating remote demolition equipment\n• Precise demolition techniques\n• Equipment positioning and setup\n• Machine safety systems\n• Maintenance and daily checks\n\nExamples:\n- Photos/videos of equipment operation\n• Different demolition techniques\n• Equipment inspection documentation\n• Specialized attachment usage"
+        "title": "Coordinating emergency procedures",
+        "description": "Demonstrate emergency management capabilities:\n• Implementing emergency plans\n• Conducting emergency drills\n• Coordinating emergency response\n• Managing evacuation procedures\n• Implementing rescue preparations\n• Coordinating first aid resources\n• Documenting emergency readiness\n\nExamples:\n- Photos of emergency preparation activities\n• Emergency procedure documentation\n• Drill records and evaluations\n• Emergency equipment management"
       },
       {
-        "title": "Managing site clean-up and post-demolition reporting",
-        "description": "Show project completion management:\n• Final site cleaning procedures\n• Preparing post-demolition reports\n• Conducting final inspections\n• Documenting site conditions\n• Verifying completion requirements\n• Client handover processes\n• Lessons learned documentation\n\nExamples:\n- Photos of completed sites\n• Final reports and documentation\n• Post-demolition verification\n• Client approval documentation"
+        "title": "Managing demolition documentation",
+        "description": "Show documentation management expertise:\n• Maintaining project records\n• Managing compliance documentation\n• Coordinating permit requirements\n• Implementing documentation systems\n• Managing regulatory submissions\n• Preparing closeout documentation\n• Ensuring documentation quality\n\nExamples:\n- Photos of documentation management\n• Document control systems\n• Compliance documentation\n• Permit and approval records"
       },
       {
-        "title": "Supervising team members and subcontractors",
-        "description": "Demonstrate team leadership and management:\n• Conducting toolbox talks\n• Assigning tasks and responsibilities\n• Monitoring work performance\n• Managing subcontractor activities\n• Resolving workplace issues\n• Implementing safety procedures\n• Providing training and mentoring\n\nExamples:\n- Photos of team leadership activities\n• Toolbox talk documentation\n• Subcontractor management evidence\n• Team coordination documentation"
-      },
-      {
-        "title": "Complying with environmental and safety regulations",
-        "description": "Show regulatory compliance management:\n• Implementing environmental management plans\n• Conducting safety inspections\n• Completing compliance documentation\n• Responding to regulatory requirements\n• Managing incidents and notifications\n• Implementing corrective actions\n• Maintaining compliance records\n\nExamples:\n- Photos of compliance activities\n• Environmental control implementation\n• Safety inspection documentation\n• Regulatory notification examples"
+        "title": "Stakeholder communication and management",
+        "description": "Demonstrate stakeholder engagement skills:\n• Conducting stakeholder consultations\n• Managing client communications\n• Coordinating with authorities\n• Engaging with the public\n• Managing neighbor relations\n• Implementing communication plans\n• Resolving stakeholder concerns\n\nExamples:\n- Photos of stakeholder engagement activities\n• Communication records\n• Meeting minutes and outcomes\n• Public notification documentation"
       }
     ],
     "documents": [
@@ -1974,11 +2085,11 @@
       },
       {
         "title": "Previous qualifications",
-        "description": "Any relevant previous qualifications or training certificates in demolition or construction.\n\nExamples:\n- Certificate III in Demolition\n- Related construction qualifications\n- Specialized demolition training certificates\n- Related trade qualifications"
+        "description": "Any relevant previous qualifications or training certificates in demolition or related fields.\n\nExamples:\n- Certificate III in Demolition\n- Related technical qualifications\n- Specialized demolition training certificates\n- Construction management qualifications"
       },
       {
         "title": "Payslips/invoices",
-        "description": "Evidence of work history and employment in demolition supervision or management.\n\nExamples:\n- Recent payslips from demolition employers\n- Invoices for demolition supervision work\n- Employment contracts\n- Payment records for demolition projects"
+        "description": "Evidence of work history and employment in senior demolition roles.\n\nExamples:\n- Recent payslips from demolition employers\n- Invoices for demolition work managed\n- Employment contracts for supervisory roles\n- Payment records for demolition services"
       },
       {
         "title": "100 pts of ID",
@@ -1986,488 +2097,67 @@
       },
       {
         "title": "Resume",
-        "description": "Detailed work history and skills summary focused on demolition experience.\n\nExamples:\n- Current resume with demolition supervision roles\n- List of significant demolition projects\n- Specialized demolition skills and responsibilities\n- Work history timeline in the industry"
+        "description": "Detailed work history and skills summary focused on demolition management experience.\n\nExamples:\n- Current resume with demolition supervision roles\n- List of significant demolition projects managed\n- Specialized demolition management skills\n- Work history timeline showing career progression"
       },
       {
         "title": "Reference letter",
-        "description": "Professional references from demolition industry employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters\n- Character references from industry professionals"
+        "description": "Professional references from senior demolition professionals or clients.\n\nExamples:\n- Employer references for management roles\n- Client testimonials for projects managed\n- Work verification letters from supervisors\n- Character references from industry professionals"
       },
       {
-        "title": "First aid certificate",
-        "description": "Evidence of first aid training and certification.\n\nExamples:\n- Current first aid certificate\n- CPR certification\n- Workplace first aid training records\n- Emergency response training"
+        "title": "Demolition license",
+        "description": "Advanced demolition licensing documentation.\n\nExamples:\n- Unrestricted demolition license\n- Demolition supervisor accreditation\n- License renewal documentation\n- Contractor registration for demolition"
       },
       {
-        "title": "Demolition work permits or notifications",
-        "description": "Documentation of official demolition approvals and notifications.\n\nExamples:\n- Demolition permits from local authorities\n- WorkSafe/SafeWork notifications\n- Planning approvals\n- Demolition licenses"
+        "title": "Asbestos assessor/supervisor certification",
+        "description": "Advanced asbestos management qualifications.\n\nExamples:\n- Class A or B asbestos removal supervisor certification\n- Asbestos assessor license\n- Hazardous materials management qualification\n- Asbestos control and management training"
       },
       {
-        "title": "Risk assessment documentation",
-        "description": "Evidence of demolition risk management implementation.\n\nExamples:\n- Completed risk assessments for demolition projects\n- Safe work method statements\n- Hazard identification records\n- Control measure documentation"
-      },
-      {
-        "title": "Hazardous materials reports",
-        "description": "Reports identifying and documenting hazardous materials on demolition sites.\n\nExamples:\n- Asbestos registers\n- Hazardous material surveys\n- Laboratory test results\n- Hazardous materials management plans"
-      },
-      {
-        "title": "Traffic management plans",
-        "description": "Documentation for managing traffic around demolition sites.\n\nExamples:\n- Traffic management plans\n- Road closure permits\n- Traffic control diagrams\n- Pedestrian management plans"
-      },
-      {
-        "title": "Confined space entry permits",
-        "description": "Documentation for safe entry into confined spaces during demolition.\n\nExamples:\n- Confined space entry permits\n- Gas testing records\n- Entry and exit logs\n- Emergency rescue procedures"
-      },
-      {
-        "title": "Plant operation logbooks",
-        "description": "Records of plant and equipment operation for demolition work.\n\nExamples:\n- Equipment operation logbooks\n- Maintenance records\n- Inspection documentation\n- Operator verification records"
-      },
-      {
-        "title": "Waste management records",
-        "description": "Documentation of demolition waste handling and disposal.\n\nExamples:\n- Waste classification records\n- Recycling documentation\n- Disposal receipts and dockets\n- Hazardous waste tracking"
-      },
-      {
-        "title": "Hot work permits",
-        "description": "Documentation for managing fire risks during demolition.\n\nExamples:\n- Hot work permits\n- Fire watch logs\n- Fire safety equipment records\n- Emergency response procedures"
-      },
-      {
-        "title": "Site safety inspection reports",
-        "description": "Records of safety inspections conducted on demolition sites.\n\nExamples:\n- Weekly safety inspection reports\n- Corrective action documentation\n- Safety audit records\n- Incident investigation reports"
-      },
-      {
-        "title": "Demolition method statements",
-        "description": "Detailed procedures and methods for demolition activities.\n\nExamples:\n- Demolition methodology documents\n- Sequencing plans\n- Temporary works designs\n- Engineering verification"
-      },
-      {
-        "title": "Environmental compliance documentation",
-        "description": "Evidence of compliance with environmental requirements during demolition.\n\nExamples:\n- Environmental management plans\n- Monitoring results (noise, dust, vibration)\n- Regulatory compliance records\n- Environmental incident reports"
-      }
-    ]
-  },
-  "MEM40119": {
-    "title": "Certificate IV in Engineering - Simplified Requirements",
-    "photoVideo": [
-      {
-        "title": "Onsite in your PPE",
-        "description": "Demonstrate proper use of Personal Protective Equipment for engineering work:\n• Safety glasses/face shields\n• Welding masks and gear\n• Hearing protection\n• Steel-capped safety boots\n• Flame-resistant clothing\n• Gloves appropriate for various tasks\n• Respiratory protection for fumes and dust\n\nExamples:\n- Photos of you wearing appropriate PPE in engineering environments\n• Task-specific PPE for different engineering processes\n• Leading by example with PPE compliance\n• Different PPE configurations for various materials/processes"
-      },
-      {
-        "title": "Reading and interpreting engineering drawings and specifications",
-        "description": "Demonstrate advanced drawing interpretation skills:\n• Reading complex engineering drawings\n• Understanding geometric dimensioning and tolerancing\n• Interpreting technical specifications\n• Working with 3D models and 2D drawings\n• Understanding assembly drawings\n• Identifying materials and treatments\n• Creating sketches to communicate ideas\n\nExamples:\n- Photos of you working with complex drawings\n• Marked up engineering drawings\n• Sketches of technical solutions\n• Demonstration of drawing interpretation skills"
-      },
-      {
-        "title": "Performing precision measurements and calculations",
-        "description": "Show advanced measurement abilities:\n• Using coordinate measuring machines\n• Applying complex measuring instruments\n• Performing tolerance calculations\n• Analyzing and reporting measurement data\n• Calibrating measuring equipment\n• Calculating engineering parameters\n• Verifying dimensional accuracy\n\nExamples:\n- Photos of precision measuring activities\n• Documented measurement procedures\n• Calculation worksheets\n• Quality verification records"
-      },
-      {
-        "title": "Setting up and operating CNC and manual machines",
-        "description": "Demonstrate machine setup and operation:\n• Programming CNC equipment\n• Setting up work holding devices\n• Selecting and mounting cutting tools\n• Establishing machine parameters\n• Optimizing machining operations\n• Quality checking during production\n• Safe operation procedures\n\nExamples:\n- Photos/videos of machine setup and operation\n• CNC programming examples\n• Setup documentation\n• Completed machined components"
-      },
-      {
-        "title": "Fabricating, modifying, or repairing metal components",
-        "description": "Show advanced fabrication skills:\n• Creating complex fabricated components\n• Repairing damaged engineering parts\n• Modifying existing components\n• Joining using various processes\n• Heat treatment applications\n• Surface finishing techniques\n• Precision fitting and assembly\n\nExamples:\n- Photos of fabrication processes\n• Examples of repair procedures\n• Component modifications\n• Finished fabricated items"
-      },
-      {
-        "title": "Welding using MIG, TIG, or Stick processes",
-        "description": "Demonstrate advanced welding competency:\n• Setting up welding equipment\n• Preparing materials for welding\n• Welding in various positions\n• Creating different joint types\n• Weld testing and inspection\n• Welding different materials\n• Controlling heat input and distortion\n\nExamples:\n- Photos/videos of welding processes\n• Test pieces showing weld quality\n• Different joint types and positions\n• Welding parameter documentation"
-      },
-      {
-        "title": "Programming and operating automated equipment",
-        "description": "Show automation programming skills:\n• Creating CNC programs\n• Setting up automated processes\n• Optimizing cycle times\n• Troubleshooting program issues\n• Using CAM software\n• Simulating machining operations\n• Implementing quality checks\n\nExamples:\n- Photos of programming activities\n• Program code examples\n• CAM software usage\n• Automated process verification"
-      },
-      {
-        "title": "Maintaining mechanical and hydraulic systems",
-        "description": "Demonstrate maintenance capabilities:\n• Performing scheduled maintenance\n• Troubleshooting system faults\n• Repairing mechanical systems\n• Hydraulic system maintenance\n• Component replacement\n• System testing and verification\n• Documenting maintenance activities\n\nExamples:\n- Photos of maintenance procedures\n• Fault diagnosis documentation\n• Repair processes\n• Maintenance records"
-      },
-      {
-        "title": "Assembling engineering components and systems",
-        "description": "Show assembly skills and techniques:\n• Following assembly drawings\n• Creating jigs and fixtures\n• Precision alignment techniques\n• Fitting components accurately\n• Testing assemblies\n• Documenting assembly procedures\n• Quality verification methods\n\nExamples:\n- Photos of assembly processes\n• Assembly sequence documentation\n• Alignment and fitting techniques\n• Completed assemblies"
-      },
-      {
-        "title": "Testing and diagnosing faults in equipment",
-        "description": "Demonstrate diagnostic capabilities:\n• Using test equipment\n• Following logical fault-finding processes\n• Interpreting test results\n• Identifying root causes\n• Documenting fault conditions\n• Recommending corrective actions\n• Verification testing\n\nExamples:\n- Photos of testing procedures\n• Diagnostic flowcharts\n• Test result documentation\n• Fault analysis reports"
-      },
-      {
-        "title": "Working with fluid power systems",
-        "description": "Show fluid power system competency:\n• Understanding hydraulic systems\n• Working with pneumatic components\n• Reading fluid power circuits\n• Setting up and adjusting systems\n• Testing system performance\n• Troubleshooting fluid power issues\n• Implementing safety procedures\n\nExamples:\n- Photos of fluid power system work\n• Circuit diagrams and schematics\n• System setup and adjustment\n• Testing and verification procedures"
-      },
-      {
-        "title": "Interpreting technical data and manufacturer specifications",
-        "description": "Demonstrate technical information management:\n• Reading technical manuals\n• Understanding manufacturer specifications\n• Applying technical data to practical work\n• Maintaining technical documentation\n• Communicating technical information\n• Sourcing relevant standards\n• Implementing specifications properly\n\nExamples:\n- Photos of working with technical documentation\n• Application of specifications\n• Standards implementation\n• Technical reference materials"
-      },
-      {
-        "title": "Applying quality assurance and inspection processes",
-        "description": "Show quality management implementation:\n• Creating inspection criteria\n• Performing quality inspections\n• Using quality control tools\n• Documenting inspection results\n• Implementing corrective actions\n• Statistical process control\n• Continuous improvement activities\n\nExamples:\n- Photos of quality inspection activities\n• Quality documentation\n• Inspection results and reports\n• Quality improvement initiatives"
-      },
-      {
-        "title": "Ensuring compliance with WHS and risk control procedures",
-        "description": "Demonstrate safety management skills:\n• Identifying workplace hazards\n• Conducting risk assessments\n• Implementing control measures\n• Leading by example on safety\n• Conducting safety briefings\n• Documenting safety procedures\n• Responding to safety incidents\n\nExamples:\n- Photos of safety implementation\n• Completed risk assessments\n• Safety procedure documentation\n• Safety inspection records"
-      },
-      {
-        "title": "Documenting maintenance, modifications, and design changes",
-        "description": "Show documentation management skills:\n• Creating technical reports\n• Documenting design changes\n• Preparing modification records\n• Maintaining maintenance logs\n• Updating engineering drawings\n• Technical writing skills\n• Record-keeping systems\n\nExamples:\n- Photos of documentation activities\n• Technical reports and records\n• Design change documentation\n• Maintenance history records"
-      }
-    ],
-    "documents": [
-      {
-        "title": "White Card",
-        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
-      },
-      {
-        "title": "Previous qualifications",
-        "description": "Any relevant previous qualifications or training certificates in engineering or related fields.\n\nExamples:\n- Certificate III in Engineering\n- Related technical qualifications\n- Specialized engineering training certificates\n- Trade qualifications"
-      },
-      {
-        "title": "Payslips/invoices",
-        "description": "Evidence of work history and employment in engineering roles.\n\nExamples:\n- Recent payslips from engineering employers\n- Invoices for engineering work completed\n- Employment contracts\n- Payment records for engineering services"
-      },
-      {
-        "title": "100 pts of ID",
-        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
-      },
-      {
-        "title": "Resume",
-        "description": "Detailed work history and skills summary focused on engineering experience.\n\nExamples:\n- Current resume with engineering roles\n- List of significant engineering projects\n- Specialized engineering skills\n- Work history timeline in the industry"
-      },
-      {
-        "title": "Reference letter",
-        "description": "Professional references from engineering employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters\n- Character references from industry professionals"
-      },
-      {
-        "title": "First aid certificate",
-        "description": "Evidence of first aid training and certification.\n\nExamples:\n- Current first aid certificate\n- CPR certification\n- Workplace first aid training records\n- Emergency response training"
-      },
-      {
-        "title": "Engineering workshop photos",
-        "description": "Photographic evidence of engineering workshop environments.\n\nExamples:\n- Photos of workshops you've worked in\n- Equipment and machinery setups\n- Project workspaces\n- Safety systems implementation"
-      },
-      {
-        "title": "Machine operation logs",
-        "description": "Records of machinery and equipment operation hours.\n\nExamples:\n- CNC machine operation logs\n- Equipment usage records\n- Production time documentation\n- Operator verification logs"
-      },
-      {
-        "title": "Welding procedure specifications (WPS)",
-        "description": "Documentation detailing welding procedures and specifications.\n\nExamples:\n- Completed WPS documentation\n- Welding parameter records\n- Qualification test records\n- Joint design specifications"
-      },
-      {
-        "title": "Engineering drawings and CAD printouts",
-        "description": "Technical drawings for engineering projects you've worked on.\n\nExamples:\n- Engineering drawings with annotations\n- CAD models and printouts\n- Design documentation\n- As-built drawings"
-      },
-      {
-        "title": "Tool calibration certificates",
-        "description": "Documentation of precision tool calibration and verification.\n\nExamples:\n- Calibration certificates for measuring tools\n- Calibration records and schedules\n- Traceability documentation\n- In-house calibration procedures"
-      },
-      {
-        "title": "Work orders/job cards",
-        "description": "Documentation of engineering tasks and assignments.\n\nExamples:\n- Completed work orders\n- Job cards with task descriptions\n- Project assignment documentation\n- Task verification records"
-      },
-      {
-        "title": "Maintenance schedules",
-        "description": "Documentation of equipment maintenance planning and execution.\n\nExamples:\n- Maintenance schedule documentation\n- Preventative maintenance records\n- Service history logs\n- Equipment maintenance procedures"
-      },
-      {
-        "title": "Safety documentation",
-        "description": "Records showing compliance with safety requirements.\n\nExamples:\n- Safe work method statements\n- Risk assessments\n- Safety inspection records\n- Safety training documentation"
-      },
-      {
-        "title": "Inspection reports",
-        "description": "Documentation of quality inspections and verification.\n\nExamples:\n- Quality inspection reports\n- Non-conformance documentation\n- Component verification records\n- First article inspection reports"
-      },
-      {
-        "title": "CNC programming files or screenshots",
-        "description": "Evidence of CNC programming skills and implementation.\n\nExamples:\n- CNC program listings\n- Screenshots of CAM software use\n- Program simulation outputs\n- G-code development documentation"
-      },
-      {
-        "title": "Tool and equipment receipts",
-        "description": "Evidence of tools and equipment used in engineering work.\n\nExamples:\n- Receipts for specialized tools\n- Equipment purchase documentation\n- Tool inventory records\n- Equipment access authorization"
-      },
-      {
-        "title": "Employer verification letter",
-        "description": "Formal documentation from employers verifying your engineering experience.\n\nExamples:\n- Employer statements of service\n- Verification of engineering skills\n- Confirmation of employment periods\n- Assessment of competency from supervisors"
-      },
-      {
-        "title": "Performance review reports",
-        "description": "Documentation of work performance assessments.\n\nExamples:\n- Performance review documentation\n- Skills assessment reports\n- Competency evaluation forms\n- Professional development plans"
-      }
-    ]
-  },
-  "CPC40920": {
-    "title": "Certificate IV in Plumbing and Services - Simplified Requirements",
-    "photoVideo": [
-      {
-        "title": "Onsite in your PPE",
-        "description": "Demonstrate proper use of Personal Protective Equipment for plumbing work:\n• Safety glasses/face shields\n• Hard hat\n• Hearing protection\n• Steel-capped safety boots\n• High-visibility clothing\n• Gloves appropriate for various tasks\n• Respiratory protection when needed\n\nExamples:\n- Photos of you wearing appropriate PPE on plumbing sites\n• Task-specific PPE for different plumbing operations\n• Leading by example with PPE compliance\n• Different PPE configurations for various plumbing tasks"
-      },
-      {
-        "title": "Reading and interpreting plumbing plans and specifications",
-        "description": "Demonstrate advanced plan reading skills:\n• Interpreting complex plumbing drawings\n• Understanding hydraulic services diagrams\n• Reading mechanical services plans\n• Working with building services layouts\n• Understanding specifications and notes\n• Identifying compliance requirements\n• Creating sketches to communicate ideas\n\nExamples:\n- Photos of you working with complex plumbing plans\n• Marked up service drawings\n• Sketches of technical solutions\n• Demonstration of plan interpretation skills"
-      },
-      {
-        "title": "Estimating and quoting plumbing work",
-        "description": "Show estimation and quoting abilities:\n• Calculating material quantities\n• Preparing detailed cost estimates\n• Creating professional quotes\n• Using estimating software\n• Applying labor rates and overheads\n• Analyzing project requirements\n• Preparing variation documents\n\nExamples:\n- Photos of estimation activities\n• Sample quotes and estimates\n• Takeoff documentation\n• Project costing worksheets"
-      },
-      {
-        "title": "Coordinating on-site plumbing services",
-        "description": "Demonstrate site coordination skills:\n• Organizing plumbing work sequences\n• Coordinating with other trades\n• Managing team activities\n• Implementing work schedules\n• Supervising apprentices\n• Resolving site issues\n• Conducting site meetings\n\nExamples:\n- Photos of site coordination activities\n• Work schedules and plans\n• Team briefing documentation\n• Site coordination records"
-      },
-      {
-        "title": "Planning and designing plumbing systems",
-        "description": "Show system design capabilities:\n• Designing water supply systems\n• Planning drainage installations\n• Creating gas installation layouts\n• Designing mechanical services\n• Preparing system schematics\n• Sizing system components\n• Ensuring compliance with codes\n\nExamples:\n- Photos of design activities\n• System design drawings\n• Calculations and sizing documentation\n• Design specifications and notes"
-      },
-      {
-        "title": "Installing and testing complex plumbing systems",
-        "description": "Demonstrate advanced installation skills:\n• Installing complex water supply systems\n• Setting up specialized sanitary fixtures\n• Installing high-rise building services\n• Implementing commercial plumbing systems\n• Pressure testing installations\n• Flow testing and verification\n• Quality assurance inspections\n\nExamples:\n- Photos of complex installations\n• Testing procedures and results\n• Commissioning documentation\n• Specialized system installations"
-      },
-      {
-        "title": "Diagnosing and rectifying plumbing system faults",
-        "description": "Show troubleshooting abilities:\n• Systematic fault diagnosis\n• Using specialized testing equipment\n• Applying hydraulic principles\n• Rectifying complex system issues\n• Documenting fault conditions\n• Implementing remedial solutions\n• Verifying system performance\n\nExamples:\n- Photos of fault diagnosis activities\n• Fault reports and documentation\n• Testing and verification procedures\n• Before/after repair documentation"
-      },
-      {
-        "title": "Managing plumbing projects",
-        "description": "Demonstrate project management skills:\n• Planning project timelines\n• Managing project resources\n• Coordinating subcontractors\n• Monitoring project costs\n• Implementing quality control\n• Managing project documentation\n• Client communication and reporting\n\nExamples:\n- Photos of project management activities\n• Project plans and schedules\n• Progress reports\n• Project management documentation"
-      },
-      {
-        "title": "Conducting quality inspections of plumbing work",
-        "description": "Show inspection capabilities:\n• Conducting detailed inspections\n• Identifying non-compliant work\n• Applying relevant codes and standards\n• Preparing inspection reports\n• Recommending corrective actions\n• Final acceptance procedures\n• Compliance documentation\n\nExamples:\n- Photos of inspection activities\n• Inspection checklists and reports\n• Non-compliance documentation\n• Quality verification records"
-      },
-      {
-        "title": "Ensuring compliance with codes and standards",
-        "description": "Demonstrate compliance management:\n• Applying National Construction Code requirements\n• Working with AS/NZS 3500 standards\n• Implementing gas installation standards\n• Understanding local authority requirements\n• Maintaining compliance documentation\n• Preparing for regulatory inspections\n• Addressing compliance issues\n\nExamples:\n- Photos showing compliance activities\n• Code references and applications\n• Compliance documentation\n• Regulatory approval documentation"
-      },
-      {
-        "title": "Managing work health and safety",
-        "description": "Show WHS management skills:\n• Conducting site safety assessments\n• Creating safe work method statements\n• Implementing safety procedures\n• Managing safety equipment\n• Leading toolbox talks\n• Addressing hazardous situations\n• Maintaining safety documentation\n\nExamples:\n- Photos of safety management activities\n• Safety documentation and procedures\n• Risk assessment documentation\n• Safety meeting records"
-      },
-      {
-        "title": "Supervising and mentoring team members",
-        "description": "Demonstrate supervisory capabilities:\n• Supervising plumbing teams\n• Mentoring apprentices\n• Providing technical guidance\n• Performance management\n• Skills development activities\n• Team leadership\n• Conflict resolution\n\nExamples:\n- Photos of supervision activities\n• Mentoring documentation\n• Team meeting records\n• Training and development plans"
-      },
-      {
-        "title": "Preparing contract documentation",
-        "description": "Show contract management skills:\n• Preparing contract documents\n• Understanding contractual obligations\n• Creating scope of works\n• Managing variations and changes\n• Documenting contract administration\n• Progress claiming procedures\n• Contract completion documentation\n\nExamples:\n- Photos of contract documentation\n• Sample contracts and agreements\n• Variation documentation\n• Contract administration records"
-      },
-      {
-        "title": "Applying environmentally sustainable practices",
-        "description": "Demonstrate sustainable plumbing practices:\n• Implementing water conservation measures\n• Installing energy-efficient systems\n• Minimizing waste and recycling\n• Selecting sustainable materials\n• Applying green plumbing principles\n• Maintaining environmental records\n• Educating clients on sustainability\n\nExamples:\n- Photos of sustainable practices\n• Sustainable system designs\n• Water and energy efficiency documentation\n• Environmental compliance records"
-      }
-    ],
-    "documents": [
-      {
-        "title": "White Card",
-        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
-      },
-      {
-        "title": "Previous qualifications",
-        "description": "Any relevant previous qualifications or training certificates in plumbing or related fields.\n\nExamples:\n- Certificate III in Plumbing\n- Related technical qualifications\n- Specialized plumbing training certificates\n- Trade qualifications"
-      },
-      {
-        "title": "Payslips/invoices",
-        "description": "Evidence of work history and employment in plumbing roles.\n\nExamples:\n- Recent payslips from plumbing employers\n- Invoices for plumbing work completed\n- Employment contracts\n- Payment records for plumbing services"
-      },
-      {
-        "title": "100 pts of ID",
-        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
-      },
-      {
-        "title": "Resume",
-        "description": "Detailed work history and skills summary focused on plumbing experience.\n\nExamples:\n- Current resume with plumbing roles\n- List of significant plumbing projects\n- Specialized plumbing skills\n- Work history timeline"
-      },
-      {
-        "title": "Reference letter",
-        "description": "Professional references from plumbing employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters\n- Character references from industry professionals"
-      },
-      {
-        "title": "First aid certificate",
-        "description": "Evidence of first aid training and certification.\n\nExamples:\n- Current first aid certificate\n- CPR certification\n- Workplace first aid training records\n- Emergency response training"
-      },
-      {
-        "title": "Plumbing license",
-        "description": "Current plumbing license or registration documentation.\n\nExamples:\n- Licensed plumber documentation\n- Contractor license\n- Trade registration certificate\n- License renewal documentation"
-      },
-      {
-        "title": "Backflow prevention certification",
-        "description": "Certification for backflow prevention testing and maintenance.\n\nExamples:\n- Backflow prevention accreditation\n- Test certifications\n- Backflow prevention registration\n- Training completion certificate"
-      },
-      {
-        "title": "Gas fitting certification",
-        "description": "Gas fitting license or certification documentation.\n\nExamples:\n- Gas fitting endorsement\n- Gas safety certifications\n- Type A appliance servicing certificate\n- LPG/Natural gas certification"
-      },
-      {
-        "title": "Thermostatic mixing valve certification",
-        "description": "Certification for installing and maintaining TMVs.\n\nExamples:\n- TMV endorsement\n- Testing and commissioning certification\n- Maintenance qualification\n- Training completion certificate"
-      },
-      {
-        "title": "Work health and safety documentation",
-        "description": "Evidence of WHS knowledge and implementation.\n\nExamples:\n- Safe work method statements\n- Risk assessments\n- Safety inspection records\n- Safety training documentation"
-      },
-      {
-        "title": "Design drawings and specifications",
-        "description": "Examples of plumbing system designs you've created.\n\nExamples:\n- Hydraulic service designs\n- System layouts and plans\n- Design calculations\n- Technical specifications"
+        "title": "High-risk work licenses",
+        "description": "Licenses for specialized demolition operations.\n\nExamples:\n- Advanced rigging license\n- Crane operation certification\n- Explosive use permit\n- Confined space entry supervisor certification"
       },
       {
         "title": "Project management documentation",
-        "description": "Evidence of plumbing project management experience.\n\nExamples:\n- Project plans and schedules\n- Progress reports\n- Resource allocation documentation\n- Project completion records"
+        "description": "Evidence of demolition project management experience.\n\nExamples:\n- Project plans for demolition projects\n- Resource allocation documentation\n- Project schedules and timelines\n- Project completion reports"
       },
       {
-        "title": "Quotes and estimates",
-        "description": "Examples of plumbing quotes and estimates you've prepared.\n\nExamples:\n- Detailed job quotes\n- Material and labor estimates\n- Takeoff documentation\n- Variation quotes"
+        "title": "Demolition methodology statements",
+        "description": "Detailed demolition planning documentation.\n\nExamples:\n- Complex demolition methodology documents\n- Engineering method statements\n- Detailed demolition sequence plans\n- Technical approach documentation"
       },
       {
-        "title": "Compliance certificates",
-        "description": "Certificates of compliance for completed plumbing work.\n\nExamples:\n- Plumbing compliance certificates\n- Gas compliance certificates\n- Drainage compliance documentation\n- Water supply certificates"
+        "title": "Risk management plans",
+        "description": "Comprehensive risk management documentation.\n\nExamples:\n- Detailed risk assessments for complex demolition\n- Critical risk management plans\n- Hazard control strategies\n- Risk monitoring documentation"
       },
       {
-        "title": "Inspection reports",
-        "description": "Reports from plumbing inspections you've conducted.\n\nExamples:\n- Quality inspection reports\n- Compliance inspection documentation\n- Site inspection records\n- Final inspection certificates"
+        "title": "Environmental management plans",
+        "description": "Documentation of environmental control strategies.\n\nExamples:\n- Site-specific environmental management plans\n- Dust, noise, and vibration control strategies\n- Environmental monitoring documentation\n- Remediation planning documents"
+      },
+      {
+        "title": "WHS management system documentation",
+        "description": "Evidence of safety system implementation.\n\nExamples:\n- WHS management plans\n- Safety system documentation\n- Safety performance reports\n- Incident management procedures"
+      },
+      {
+        "title": "Emergency management plans",
+        "description": "Documentation of emergency preparedness.\n\nExamples:\n- Site-specific emergency plans\n- Emergency response procedures\n- Evacuation planning documentation\n- Emergency drill records"
+      },
+      {
+        "title": "Stakeholder communication plans",
+        "description": "Evidence of stakeholder engagement strategies.\n\nExamples:\n- Communication management plans\n- Public notification documentation\n- Stakeholder consultation records\n- Community engagement strategies"
       },
       {
         "title": "Contract documentation",
-        "description": "Contracts and agreements for plumbing projects.\n\nExamples:\n- Service contracts\n- Project agreements\n- Scope of works documentation\n- Terms and conditions"
-      }
-    ]
-  },
-  "CPC32420": {
-    "title": "Certificate III in Plumbing - Simplified Requirements",
-    "photoVideo": [
-      {
-        "title": "Onsite in your PPE",
-        "description": "Demonstrate proper use of Personal Protective Equipment for plumbing work:\n• Hard hat and safety glasses\n• High visibility clothing\n• Steel-capped safety footwear\n• Gloves for handling materials\n• Respiratory protection when necessary\n• Hearing protection for noisy operations\n• Kneepads for floor work\n\nExamples:\n- Photos of you wearing appropriate PPE on plumbing sites\n- Different PPE configurations for various tasks\n- Evidence of safety compliance\n- PPE maintenance and inspection"
+        "description": "Evidence of demolition contract management.\n\nExamples:\n- Demolition contracts managed\n- Scope of works documentation\n- Contract administration records\n- Variation management documentation"
       },
       {
-        "title": "Reading plans and calculating quantities",
-        "description": "Show ability to interpret plumbing plans and specifications:\n• Reading plumbing drawings and symbols\n• Identifying pipe layouts and connections\n• Calculating material quantities\n• Taking measurements from drawings\n• Understanding plumbing specifications\n• Interpreting Australian Standards requirements\n\nExamples:\n- Photos of you working with plumbing plans\n- Material calculations based on drawings\n- Marked up drawings for installation\n- Notes and takeoffs from specifications"
+        "title": "Quality assurance documentation",
+        "description": "Evidence of quality management implementation.\n\nExamples:\n- Quality management plans\n- Inspection and test plans\n- Quality verification records\n- Non-conformance management"
       },
       {
-        "title": "Using plumbing hand and power tools",
-        "description": "Demonstrate correct use of plumbing tools:\n• Hand tools (pipe wrenches, cutters, benders)\n• Power tools (drills, threading machines)\n• Measuring and marking tools\n• Leveling equipment\n• Pipe threading and joining tools\n• Testing equipment (pressure gauges, etc.)\n\nExamples:\n- Photos/videos of proper tool usage\n- Different tools for various plumbing applications\n- Tool maintenance and safety practices\n- Setting up and operating specialized plumbing tools"
+        "title": "Permit applications and approvals",
+        "description": "Documentation of regulatory compliance management.\n\nExamples:\n- Demolition permit applications\n- Authority approvals obtained\n- Compliance certificates\n- Regulatory submission documentation"
       },
       {
-        "title": "Welding polymer pipes using fusion method",
-        "description": "Show polymer pipe welding techniques:\n• Setting up fusion welding equipment\n• Preparing pipes for welding\n• Operating fusion welding machines\n• Checking weld quality and integrity\n• Different joining methods (socket, butt)\n• Testing completed welds\n\nExamples:\n- Photos/videos of fusion welding process\n- Preparation and cleaning procedures\n- Different types of fusion joins\n- Testing methods for completed welds"
-      },
-      {
-        "title": "Installing water pipe systems",
-        "description": "Demonstrate water pipe installation skills:\n• Measuring and cutting pipes accurately\n• Creating proper pipe supports and brackets\n• Installing different pipe materials (copper, PEX, PVC)\n• Creating watertight joints and connections\n• Testing for leaks and pressure\n• Compliance with plumbing codes\n\nExamples:\n- Photos/videos of water pipe installation\n- Different connection methods and fittings\n- Pressure testing procedures\n- Completed and properly supported pipework"
-      },
-      {
-        "title": "Setting out and installing water services",
-        "description": "Show water service installation techniques:\n• Establishing levels and falls\n• Setting out pipe routes\n• Connection to water mains\n• Installing valves and control devices\n• Connecting to fixtures and appliances\n• Backflow prevention implementation\n\nExamples:\n- Photos of water service installation process\n- Proper valve placement and accessibility\n• Main connection techniques\n- Completed water service installations"
-      },
-      {
-        "title": "Installing and fitting off sanitary fixtures",
-        "description": "Demonstrate fixture installation skills:\n• Setting out fixture positions\n• Installing toilets, basins, and sinks\n• Connecting fixtures to waste systems\n• Installing taps and mixers\n• Sealing and waterproofing around fixtures\n• Testing for correct operation\n\nExamples:\n- Photos/videos of fixture installation\n- Connection to supply and waste pipes\n- Sealing techniques around fixtures\n- Completed functioning installations"
-      },
-      {
-        "title": "Installing gas piping systems",
-        "description": "Show gas installation competency:\n• Working with different gas pipe materials\n• Pressure testing gas installations\n• Proper jointing techniques for gas pipes\n• Installing gas control devices and valves\n• Applying gas codes and regulations\n• Ensuring gas-tight connections\n\nExamples:\n- Photos of gas pipework installation\n- Pressure testing equipment use\n- Correct bracketing and support methods\n- Proper labeling and identification"
-      },
-      {
-        "title": "Installing and commissioning Type A gas appliances",
-        "description": "Demonstrate gas appliance installation skills:\n• Positioning and connecting gas appliances\n• Installing flues and ventilation\n• Checking gas pressure and adjustment\n• Testing for gas leaks\n• Commissioning procedures\n• Completing compliance certification\n\nExamples:\n- Photos of gas appliance installations\n- Testing and commissioning process\n- Safety check procedures\n- Completed installation documentation"
-      },
-      {
-        "title": "Installing roof drainage systems",
-        "description": "Show roof drainage installation techniques:\n• Installing gutters with correct fall\n• Fitting downpipes and rainheads\n• Creating proper support brackets\n• Connecting to stormwater systems\n• Installing overflow provisions\n• Weatherproofing connections\n\nExamples:\n- Photos/videos of roof drainage installation\n- Gutter fall and alignment techniques\n• Different gutter profiles and materials\n- Completed roof drainage systems"
-      },
-      {
-        "title": "Installing stormwater drainage systems",
-        "description": "Demonstrate stormwater system installation:\n• Setting out drainage runs with correct fall\n• Installing stormwater pipes and fittings\n• Connecting downpipes to stormwater\n• Installing inspection openings\n• Creating soakwells or retention systems\n• Testing for flow and drainage\n\nExamples:\n- Photos of stormwater installation process\n- Establishing correct pipe falls\n• Connection methods and techniques\n- Completed stormwater systems"
-      },
-      {
-        "title": "Installing below ground sanitary drainage",
-        "description": "Show sanitary drainage installation skills:\n• Trenching and preparing pipe bedding\n• Installing drainage pipes with correct fall\n• Creating proper joints and connections\n• Installing inspection openings and gullies\n• Backfilling and compacting trenches\n• Testing drainage systems\n\nExamples:\n- Photos/videos of drainage installation\n- Establishing and checking pipe falls\n• Pipe jointing techniques\n- Testing and commissioning drainage"
-      },
-      {
-        "title": "Locating and clearing blockages",
-        "description": "Demonstrate blockage clearing techniques:\n• Using pipe locating equipment\n• Diagnosing drainage problems\n• Operating drain cleaning equipment\n• Using CCTV for pipe inspection\n• Water jetting techniques\n• Preventing future blockages\n\nExamples:\n- Photos of blockage clearing equipment\n- Diagnostic techniques for blockages\n• Different clearing methods for various situations\n• Camera inspection equipment use"
-      },
-      {
-        "title": "Installing backflow prevention devices",
-        "description": "Show backflow prevention installation:\n• Selecting appropriate backflow devices\n• Installing according to standards\n• Testing backflow preventers\n• Maintaining and servicing devices\n• Documentation and certification\n• Understanding cross-connection risks\n\nExamples:\n- Photos of backflow device installations\n• Testing procedures and equipment\n• Different types of backflow preventers\n• Certification documentation"
-      },
-      {
-        "title": "Flashing penetrations through roofs and walls",
-        "description": "Demonstrate weatherproofing skills:\n• Creating roof and wall penetrations\n• Installing appropriate flashings\n• Weatherproofing techniques and materials\n• Working with different roof types\n• Sealing and waterproofing methods\n• Testing water-tightness\n\nExamples:\n- Photos of flashing installation process\n• Different flashing types for various penetrations\n• Sealing techniques and materials\n• Completed and weathertight penetrations"
-      }
-    ],
-    "documents": [
-      {
-        "title": "White Card",
-        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
-      },
-      {
-        "title": "Previous qualifications",
-        "description": "Any relevant previous qualifications or training certificates in plumbing or related fields.\n\nExamples:\n- Pre-apprenticeship certificates\n- Related trade qualifications\n- Short course completions\n- Training statements of attainment"
-      },
-      {
-        "title": "Payslips/invoices",
-        "description": "Evidence of work history and employment in plumbing.\n\nExamples:\n- Recent payslips from plumbing employers\n- Invoices for plumbing work completed\n- Employment contracts\n- Payment records for plumbing services"
-      },
-      {
-        "title": "100 pts of ID",
-        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
-      },
-      {
-        "title": "Resume",
-        "description": "Detailed work history and skills summary focused on plumbing experience.\n\nExamples:\n- Current resume with plumbing roles\n- List of significant plumbing projects\n- Specialized plumbing skills\n- Work history timeline"
-      },
-      {
-        "title": "Reference letter",
-        "description": "Professional references from plumbing employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters\n- Character references from industry professionals"
-      },
-      {
-        "title": "First aid certificate",
-        "description": "Evidence of first aid training and certification.\n\nExamples:\n- Current first aid certificate\n- CPR certification\n- Workplace first aid training records\n- Emergency response training"
-      },
-      {
-        "title": "Plumbing layout plans or schematics",
-        "description": "Plumbing drawings and plans you've worked with or created.\n\nExamples:\n- Plumbing system layouts\n- Installation drawings\n- As-built documentation\n- Drainage plans"
-      },
-      {
-        "title": "Compliance certificates",
-        "description": "Documentation showing compliance with plumbing regulations and standards.\n\nExamples:\n- Plumbing compliance certificates\n- Gas installation certificates\n- Backflow prevention certification\n- Inspection approval documents"
-      },
-      {
-        "title": "Backflow prevention test reports",
-        "description": "Evidence of backflow prevention device testing and certification.\n\nExamples:\n- Backflow test certificates\n- Maintenance records for devices\n- Registration of backflow preventers\n- Testing equipment calibration"
-      },
-      {
-        "title": "Gas system installation documentation",
-        "description": "Documentation for gas installations and certifications.\n\nExamples:\n- Gas compliance certificates\n- Gas system commissioning records\n- Pressure test documentation\n- Gas appliance installation records"
-      },
-      {
-        "title": "Maintenance and repair logs",
-        "description": "Records of plumbing maintenance and repair work performed.\n\nExamples:\n- Maintenance schedules and records\n- Repair documentation\n- Service history for systems\n- Fault diagnosis and resolution records"
-      },
-      {
-        "title": "Photos of plumbing work completed",
-        "description": "Photographic evidence of plumbing work you've completed.\n\nExamples:\n- Before and after photos of installations\n- Progress photos of significant projects\n- Photos showing quality of workmanship\n- Documentation of challenging installations"
-      },
-      {
-        "title": "Work orders/job cards",
-        "description": "Documentation of plumbing jobs and assignments.\n\nExamples:\n- Work orders from employers\n- Job cards showing tasks completed\n- Project assignments\n- Scope of work documentation"
-      },
-      {
-        "title": "Tool or equipment receipts",
-        "description": "Evidence of plumbing tools and equipment ownership or use.\n\nExamples:\n- Receipts for specialized plumbing tools\n- Equipment purchase documentation\n- Tool maintenance records\n- Equipment hire documentation"
-      },
-      {
-        "title": "Product specification sheets",
-        "description": "Technical information for plumbing products and materials used.\n\nExamples:\n- Manufacturer specifications\n- Product data sheets\n- Installation guidelines\n- Warranty information"
-      },
-      {
-        "title": "Material requisition forms",
-        "description": "Documentation for ordering plumbing materials and supplies.\n\nExamples:\n- Material orders and requisitions\n- Supply requests\n- Inventory records\n- Material delivery documentation"
-      },
-      {
-        "title": "Job safety analysis (JSA)",
-        "description": "Safety documentation for plumbing work procedures.\n\nExamples:\n- Job safety analyses for plumbing tasks\n- Safe work method statements\n- Risk assessments for plumbing work\n- Safety procedures documentation"
-      },
-      {
-        "title": "Stormwater/drainage diagrams",
-        "description": "Technical drawings for stormwater and drainage installations.\n\nExamples:\n- Drainage system layouts\n- Stormwater connection diagrams\n- As-built drainage plans\n- Local authority approved drainage plans"
-      },
-      {
-        "title": "Employer verification letter",
-        "description": "Formal documentation from employers verifying your plumbing experience.\n\nExamples:\n- Employer statements of service\n- Verification of specific plumbing skills\n- Confirmation of employment periods\n- Assessment of competency from supervisors"
+        "title": "Temporary works documentation",
+        "description": "Evidence of temporary structural support management.\n\nExamples:\n- Temporary works designs\n- Structural engineering certification\n- Inspection and monitoring records\n- Design verification documentation"
       }
     ]
   }
