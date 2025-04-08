@@ -2,330 +2,1044 @@
   "CPC30220": {
     "title": "Certificate III in Carpentry - Simplified Requirements",
     "photoVideo": [
-      "Using Carpentry Tools and Equipment",
-      "Onsite in your PPE",
-      "Carry out Measurements",
-      "Applying Basic Levelling Procedures",
-      "Erect Wall Frames",
-      "Install Windows and Doors",
-      "Construct Ceiling Frames",
-      "Install Exterior Cladding"
+      {
+        "title": "Using Carpentry Tools and Equipment",
+        "description": "Demonstrate safe and correct use of common carpentry tools including:\n• Hand tools (hammers, chisels, saws)\n• Power tools (drills, circular saws, nail guns)\n• Measuring tools (tape measures, squares, levels)\n• Safety equipment and PPE\n\nExamples:\n- Photos/videos of you using tools correctly\n- Tool maintenance records\n- Safety training certificates"
+      },
+      {
+        "title": "Onsite in your PPE",
+        "description": "Show proper use of Personal Protective Equipment including:\n• Hard hat\n• Safety glasses\n• High visibility clothing\n• Steel-capped boots\n• Hearing protection\n• Dust masks\n\nExamples:\n- Photos of you wearing full PPE on site\n- PPE inspection records\n- Safety induction certificates"
+      },
+      {
+        "title": "Carry out Measurements",
+        "description": "Demonstrate accurate measurement techniques:\n• Using tape measures\n• Reading and interpreting plans\n• Calculating quantities\n• Marking out work\n\nExamples:\n- Photos/videos of measurement work\n- Marked out materials\n- Completed measurement calculations"
+      },
+      {
+        "title": "Applying Basic Levelling Procedures",
+        "description": "Show ability to use levelling equipment:\n• Spirit levels\n• Laser levels\n• Dumpy levels\n• Setting out levels\n\nExamples:\n- Photos/videos of levelling work\n- Level check records\n- Completed levelling tasks"
+      },
+      {
+        "title": "Erect Wall Frames",
+        "description": "Demonstrate wall frame construction:\n• Setting out\n• Cutting and fixing studs\n• Installing noggings\n• Bracing\n\nExamples:\n- Photos/videos of frame construction\n- Completed wall frames\n- Material lists and calculations"
+      },
+      {
+        "title": "Install Windows and Doors",
+        "description": "Show window and door installation:\n• Measuring openings\n• Installing frames\n• Fitting windows/doors\n• Sealing and finishing\n\nExamples:\n- Photos/videos of installation\n- Completed installations\n- Installation checklists"
+      },
+      {
+        "title": "Construct Ceiling Frames",
+        "description": "Demonstrate ceiling frame construction:\n• Setting out\n• Installing joists\n• Installing hangers\n• Bracing\n\nExamples:\n- Photos/videos of construction\n- Completed ceiling frames\n- Material lists"
+      },
+      {
+        "title": "Install Exterior Cladding",
+        "description": "Show cladding installation:\n• Measuring and cutting\n• Fixing methods\n• Weatherproofing\n• Finishing details\n\nExamples:\n- Photos/videos of installation\n- Completed cladding work\n- Material specifications"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates.\n\nExamples:\n- Trade certificates\n- Training certificates\n- Apprenticeship records"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment.\n\nExamples:\n- Recent payslips\n- Invoices for work completed\n- Employment contracts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary.\n\nExamples:\n- Current resume\n- Skills list\n- Work history timeline"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from employers or clients.\n\nExamples:\n- Employer references\n- Client testimonials\n- Work verification letters"
+      }
     ]
   },
   "AHC30921": {
     "title": "Certificate III in Landscape Construction - Simplified Requirements",
     "photoVideo": [
-      "Setting out a site",
-      "Wearing PPE",
-      "Concrete",
-      "Paving",
-      "Retaining walls",
-      "Timber Structures",
-      "Drainage",
-      "Soft scaping"
+      {
+        "title": "Setting out a site",
+        "description": "Demonstrate proper site setup and layout techniques:\n• Interpreting site plans\n• Marking boundaries and features\n• Using measuring and marking tools\n• Establishing levels and gradients\n\nExamples:\n- Photos/videos of you setting out a landscape site\n- Images of plans with corresponding set-out areas\n- Evidence of level establishment"
+      },
+      {
+        "title": "Wearing PPE",
+        "description": "Show proper use of Personal Protective Equipment including:\n• Hard hat\n• Safety glasses\n• High visibility clothing\n• Steel-capped boots\n• Gloves and knee pads\n• Sun protection\n\nExamples:\n- Photos of you wearing full PPE on landscape sites\n- Safety checklist completions\n- PPE maintenance records"
+      },
+      {
+        "title": "Concrete",
+        "description": "Demonstrate concrete work in landscaping including:\n• Formwork construction\n• Reinforcement placement\n• Mixing and pouring concrete\n• Finishing techniques (floating, troweling)\n• Curing methods\n\nExamples:\n- Photos/videos of concrete preparation and pouring\n- Finished concrete elements (paths, footings, etc.)\n- Formwork construction"
+      },
+      {
+        "title": "Paving",
+        "description": "Show paving installation processes including:\n• Base preparation\n• Sand/aggregate bedding\n• Laying patterns\n• Cutting pavers\n• Compaction techniques\n• Jointing and finishing\n\nExamples:\n- Photos/videos of paving installation\n- Different paving patterns\n- Base preparation work\n- Finished paved areas"
+      },
+      {
+        "title": "Retaining walls",
+        "description": "Demonstrate construction of retaining walls:\n• Footing preparation\n• Wall material installation (timber, concrete, stone, blocks)\n• Drainage systems\n• Backfilling techniques\n• Finishing and capping\n\nExamples:\n- Photos/videos of retaining wall construction process\n- Drainage installation\n- Completed retaining walls\n- Level checking"
+      },
+      {
+        "title": "Timber Structures",
+        "description": "Show construction of timber landscape features:\n• Measuring and cutting timber\n• Building decks, screens, pergolas\n• Joinery techniques\n• Preserving and finishing timber\n• Installing fixtures and hardware\n\nExamples:\n- Photos/videos of timber structure construction\n- Joinery details\n- Finished timber elements in landscapes\n- Treatment applications"
+      },
+      {
+        "title": "Drainage",
+        "description": "Demonstrate installation of landscape drainage systems:\n• Trenching and excavation\n• Pipe laying and joining\n• Drainage pit installation\n• Surface drainage features\n• Testing water flow\n\nExamples:\n- Photos/videos of drainage installation\n- Completed drainage systems\n- Level checking for fall\n- Connection to existing systems"
+      },
+      {
+        "title": "Soft scaping",
+        "description": "Show soft landscaping techniques including:\n• Soil preparation\n• Plant selection and placement\n• Planting techniques\n• Mulching and finishing\n• Irrigation system installation\n• Turf laying\n\nExamples:\n- Photos/videos of planting processes\n- Finished garden areas\n- Irrigation installation\n- Turf laying procedures"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in landscaping or related fields.\n\nExamples:\n- Horticulture certificates\n- Related trade qualifications\n- Short course certificates\n- Training records"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in landscape construction.\n\nExamples:\n- Recent payslips from landscape employers\n- Invoices for landscaping work completed\n- Employment contracts with landscape companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on landscape construction experience.\n\nExamples:\n- Current resume with landscape roles\n- List of landscape projects completed\n- Skills relevant to landscaping\n- Work history timeline"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from landscape employers or clients.\n\nExamples:\n- Employer references from landscape companies\n- Client testimonials for landscape projects\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC30620": {
     "title": "Certificate III in Painting and Decorating - Simplified Requirements",
     "photoVideo": [
-      "Handle and store Materials",
-      "Wearing PPE",
-      "Surface preparation",
-      "Trestle and Plank",
-      "Measuring",
-      "Using tools and equipment",
-      "Apply stains and finishes",
-      "Choosing Paint colours"
+      {
+        "title": "Handle and store Materials",
+        "description": "Demonstrate proper handling and storage of painting materials:\n• Storage of paints, coatings, and solvents\n• Handling techniques for various materials\n• Stock rotation and inventory management\n• Safe disposal of waste materials\n• Material safety data sheet (MSDS) compliance\n\nExamples:\n- Photos/videos of organized paint storage areas\n- Evidence of proper material handling\n- Storage systems for tools and accessories\n- Safe waste disposal practices"
+      },
+      {
+        "title": "Wearing PPE",
+        "description": "Show proper use of Personal Protective Equipment including:\n• Respirators and dust masks\n• Safety glasses/face shields\n• Protective clothing and footwear\n• Gloves appropriate for different tasks\n• Hearing protection when needed\n\nExamples:\n- Photos of you wearing appropriate PPE for different tasks\n- Evidence of respirator fit testing\n- PPE maintenance and inspection records\n- Different types of PPE for various painting operations"
+      },
+      {
+        "title": "Surface preparation",
+        "description": "Show surface preparation techniques including:\n• Cleaning surfaces (washing, degreasing)\n• Removing old paint (scraping, sanding, heat gun)\n• Patching and filling imperfections\n• Sanding and smoothing surfaces\n• Applying primers and sealers\n\nExamples:\n- Photos/videos of preparation process\n- Before and after surface preparation\n- Different preparation methods for various surfaces\n- Use of fillers, putties, and patching compounds"
+      },
+      {
+        "title": "Trestle and Plank",
+        "description": "Demonstrate safe setup and use of trestle and plank systems:\n• Assembling trestles correctly\n• Securing planks safely\n• Checking stability and weight limits\n• Safe working practices at height\n• Compliance with height safety regulations\n\nExamples:\n- Photos/videos of correctly assembled trestle and plank setups\n- Safe working practices when using elevated platforms\n- Safety checks and inspections\n- Different setups for various working heights"
+      },
+      {
+        "title": "Measuring",
+        "description": "Show measuring and calculation skills for painting work:\n• Measuring surfaces for paint quantity calculations\n• Estimating material requirements\n• Using measuring tools (tape measures, laser measures)\n• Calculating coverage rates and quantities\n• Measuring for wallpaper and other coverings\n\nExamples:\n- Photos of measuring processes\n- Material quantity calculations\n- Measuring tools being used\n- Surface area and coverage calculations"
+      },
+      {
+        "title": "Using tools and equipment",
+        "description": "Demonstrate proper use of painting tools and equipment:\n• Brushes and rollers\n• Spray equipment (airless, HVLP, conventional)\n• Specialty application tools\n• Ladders and access equipment\n• Mixing and preparation tools\n\nExamples:\n- Photos/videos showing correct tool use\n- Different brush and roller techniques\n- Spray gun setup and operation\n- Tool cleaning and maintenance"
+      },
+      {
+        "title": "Apply stains and finishes",
+        "description": "Show application of stains and specialty finishes:\n• Wood staining techniques\n• Applying clear finishes (varnish, polyurethane)\n• Creating decorative finishes (rag rolling, sponging)\n• Applying specialty coatings\n• Glazing and antiquing techniques\n\nExamples:\n- Photos/videos of stain application process\n- Finished examples of decorative techniques\n- Step-by-step specialty finish applications\n- Before and after staining projects"
+      },
+      {
+        "title": "Choosing Paint colours",
+        "description": "Demonstrate color selection and matching skills:\n• Color theory and principles\n• Using color charts and fan decks\n• Digital color matching tools\n• Creating custom color schemes\n• Testing and sampling colors\n\nExamples:\n- Photos of color consultation process\n- Color scheme development samples\n- Color matching to existing elements\n- Paint color samples and test patches"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in painting and decorating.\n\nExamples:\n- Painting pre-apprenticeship certificates\n- Related training courses\n- Specialized painting technique certifications\n- Industry-specific training records"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in painting and decorating.\n\nExamples:\n- Recent payslips from painting employers\n- Invoices for painting work completed\n- Employment contracts with painting companies\n- Client payment receipts for decorating services"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on painting and decorating experience.\n\nExamples:\n- Current resume with painting roles\n- List of significant painting projects\n- Specialized painting skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from painting employers or clients.\n\nExamples:\n- Employer references from painting companies\n- Client testimonials for completed projects\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC31320": {
     "title": "Certificate III in Wall and Floor Tiling - Simplified Requirements",
     "photoVideo": [
-      "Using Tools and equipment",
-      "Wearing PPE",
-      "Surface preparation",
-      "Install floor tiles",
-      "Install Wall Tiles",
-      "Handle Wall and floor tiling materials",
-      "Measuring",
-      "Decorative tiling"
+      {
+        "title": "Using Tools and equipment",
+        "description": "Demonstrate proper use of tiling tools and equipment:\n• Tile cutters (manual, electric, wet saw)\n• Mixing tools (drills, mixers)\n• Measuring and marking tools\n• Leveling equipment\n• Grouting and finishing tools\n\nExamples:\n- Photos/videos showing correct tool operation\n- Different cutting techniques\n- Tool maintenance procedures\n- Safe handling of specialized tiling equipment"
+      },
+      {
+        "title": "Wearing PPE",
+        "description": "Show proper use of Personal Protective Equipment including:\n• Safety glasses and face shields\n• Dust masks and respirators\n• Knee pads and protective clothing\n• Safety footwear\n• Hearing protection\n• Gloves for handling materials\n\nExamples:\n- Photos of you wearing appropriate PPE for different tiling tasks\n- Evidence of proper respiratory protection when cutting tiles\n- PPE maintenance records\n- Task-specific protective equipment"
+      },
+      {
+        "title": "Surface preparation",
+        "description": "Show surface preparation techniques for tiling including:\n• Removing old coverings\n• Repairing substrates (concrete, plasterboard, timber)\n• Waterproofing application\n• Priming surfaces\n• Screeding and leveling floors\n• Creating falls to waste points\n\nExamples:\n- Photos/videos of preparation processes\n- Before and after preparation images\n- Waterproofing applications\n- Floor leveling techniques"
+      },
+      {
+        "title": "Install floor tiles",
+        "description": "Demonstrate floor tiling techniques including:\n• Setting out and establishing datum lines\n• Mixing and applying adhesives\n• Cutting and fitting floor tiles\n• Maintaining consistent joints\n• Creating expansion joints\n• Grouting and finishing\n\nExamples:\n- Photos/videos of floor tiling process\n- Setting out for different patterns\n- Cutting around fixtures and obstacles\n- Completed floor tiling projects"
+      },
+      {
+        "title": "Install Wall Tiles",
+        "description": "Show wall tiling techniques including:\n• Setting datum lines and heights\n• Creating templates for irregular areas\n• Applying adhesives correctly\n• Cutting and fitting wall tiles\n• Working around fixtures and outlets\n• Grouting and sealing\n\nExamples:\n- Photos/videos of wall tiling processes\n- Tiling around windows and fixtures\n- Different wall tiling patterns\n- Completed wall tiling projects"
+      },
+      {
+        "title": "Handle Wall and floor tiling materials",
+        "description": "Demonstrate proper handling of tiling materials:\n• Storing tiles correctly\n• Handling adhesives and grouts\n• Moving and stacking tiles safely\n• Mixing compounds to specifications\n• Managing waste materials\n\nExamples:\n- Photos of organized material storage\n- Proper mixing of compounds\n- Safe lifting and handling techniques\n- Evidence of MSDS compliance"
+      },
+      {
+        "title": "Measuring",
+        "description": "Show measuring and calculation skills for tiling:\n• Measuring rooms and surfaces\n• Calculating tile quantities including wastage\n• Setting out to minimize cuts\n• Determining adhesive and grout requirements\n• Measuring and marking for cuts\n\nExamples:\n- Photos of measuring processes\n- Material quantity calculations\n- Setting out plans\n- Optimization of tile layouts"
+      },
+      {
+        "title": "Decorative tiling",
+        "description": "Demonstrate decorative tiling techniques:\n• Creating patterns and designs\n• Installing borders and feature tiles\n• Working with different sized tiles\n• Installing mosaics\n• Creating tile inlays and features\n\nExamples:\n- Photos of decorative tiling work\n- Pattern and border installations\n- Mosaic applications\n- Feature walls or floors with decorative elements"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in tiling or related fields.\n\nExamples:\n- Tiling pre-apprenticeship certificates\n- Related construction qualifications\n- Specialized tiling technique certifications\n- Waterproofing licenses or certificates"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in wall and floor tiling.\n\nExamples:\n- Recent payslips from tiling employers\n- Invoices for tiling work completed\n- Employment contracts with tiling companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on tiling experience.\n\nExamples:\n- Current resume with tiling roles\n- List of significant tiling projects\n- Specialized tiling skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from tiling employers or clients.\n\nExamples:\n- Employer references from tiling companies\n- Client testimonials for completed tiling projects\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC31020": {
     "title": "Certificate III in Solid Plastering - Simplified Requirements",
     "photoVideo": [
-      "Prepare Surfaces",
-      "Use solid plastering Tools",
-      "Wearing PPE",
-      "Trestle and Plank",
-      "Apply float and render",
-      "Carry out measurements",
-      "Apply set coats",
-      "Apply Trowelled texture finishes"
+      {
+        "title": "Prepare Surfaces",
+        "description": "Demonstrate surface preparation for plastering including:\n• Removing existing coverings and finishes\n• Cleaning and preparing different substrates\n• Installing beads and trims\n• Applying bonding agents\n• Preparing surfaces for consistent adhesion\n\nExamples:\n- Photos/videos of surface preparation techniques\n- Before and after preparation images\n- Installation of beads and angles\n- Substrate testing and preparation"
+      },
+      {
+        "title": "Use solid plastering Tools",
+        "description": "Show proper use of plastering tools and equipment:\n• Hawk and trowel techniques\n• Floating and screeding tools\n• Mixing equipment for plaster and renders\n• Cutting and shaping tools for beads\n• Finishing tools (sponges, floats, etc.)\n\nExamples:\n- Photos/videos demonstrating correct tool handling\n- Application techniques with different tools\n- Tool maintenance and cleaning\n- Specialized tools for different finishes"
+      },
+      {
+        "title": "Wearing PPE",
+        "description": "Show proper use of Personal Protective Equipment for plastering:\n• Respiratory protection for dust\n• Eye protection\n• Skin protection (gloves, clothing)\n• Safety footwear\n• Hearing protection when using power tools\n\nExamples:\n- Photos of you wearing appropriate PPE for different plastering tasks\n- Evidence of proper PPE maintenance\n- Task-specific protective equipment\n- Safe practices when handling caustic materials"
+      },
+      {
+        "title": "Trestle and Plank",
+        "description": "Demonstrate safe setup and use of trestle and plank systems:\n• Correct assembly and positioning\n• Securing planks properly\n• Checking stability and load capacity\n• Safe working practices at height\n• Moving and adjusting platforms safely\n\nExamples:\n- Photos/videos of correctly assembled work platforms\n- Safety checks before use\n- Working safely at different heights\n- Platform setups for various plastering tasks"
+      },
+      {
+        "title": "Apply float and render",
+        "description": "Show techniques for applying float coats and renders:\n• Mixing render to correct consistency\n• Application techniques on different surfaces\n• Achieving level and plumb surfaces\n• Floating techniques for different finishes\n• Corner treatments and reveals\n\nExamples:\n- Photos/videos of rendering process\n- Application on different substrates\n- Leveling and straightening techniques\n- Finished render coats"
+      },
+      {
+        "title": "Carry out measurements",
+        "description": "Demonstrate measuring and estimation for plastering work:\n• Measuring surfaces for material calculations\n• Estimating material quantities\n• Using levels, plumb bobs, and straight edges\n• Setting out for even application\n• Calculating mixing ratios\n\nExamples:\n- Photos of measuring processes\n- Material quantity calculations\n- Setting out and marking techniques\n- Using measuring tools accurately"
+      },
+      {
+        "title": "Apply set coats",
+        "description": "Show application of set coat plasters:\n• Mixing set coat materials properly\n• Applying even set coats\n• Working to consistent thickness\n• Feathering edges and joints\n• Preparing for finish coats\n\nExamples:\n- Photos/videos of set coat application\n- Different set coat finishes\n- Techniques for consistent application\n- Transition between different surfaces"
+      },
+      {
+        "title": "Apply Trowelled texture finishes",
+        "description": "Demonstrate application of textured finishes:\n• Creating different texture patterns\n• Using specialized texture tools\n• Consistent application techniques\n• Matching existing textures\n• Decorative finish techniques\n\nExamples:\n- Photos of various textured finishes\n- Step-by-step texture application\n- Different texture styles and patterns\n- Specialized texture tools in use"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in plastering or related fields.\n\nExamples:\n- Plastering pre-apprenticeship certificates\n- Related construction qualifications\n- Specialized plastering technique certifications\n- Material handling training"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in solid plastering.\n\nExamples:\n- Recent payslips from plastering employers\n- Invoices for plastering work completed\n- Employment contracts with plastering companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on plastering experience.\n\nExamples:\n- Current resume with plastering roles\n- List of significant plastering projects\n- Specialized plastering skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from plastering employers or clients.\n\nExamples:\n- Employer references from plastering companies\n- Client testimonials for completed plastering projects\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC32620": {
     "title": "Certificate III in Roof Plumbing - Simplified Requirements",
     "photoVideo": [
-      "PPE",
-      "Use solid Roof plumbing tools",
-      "Scaffolding",
-      "Levelling",
-      "Cut and join sheet metal",
-      "Carry out measurements",
-      "Fabricate/install External flashings",
-      "Install roof components"
+      {
+        "title": "PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment for roof plumbing work:\n• Fall protection equipment (harnesses, anchor points)\n• Hard hats and safety glasses\n• Appropriate footwear for roofing\n• Sun protection\n• Gloves for handling metal and sharp materials\n\nExamples:\n- Photos of you wearing appropriate PPE on roofing jobs\n- Using fall arrest systems correctly\n- Evidence of PPE inspections\n- Task-specific protective equipment"
+      },
+      {
+        "title": "Use solid Roof plumbing tools",
+        "description": "Show proper use of roof plumbing tools and equipment:\n• Sheet metal tools (snips, folders, seamers)\n• Measuring and marking tools\n• Fastening tools and equipment\n• Cutting and drilling tools\n• Sealing and joining equipment\n\nExamples:\n- Photos/videos showing correct tool use\n- Demonstration of specialized roofing tools\n- Tool maintenance and care\n- Safe handling of powered equipment"
+      },
+      {
+        "title": "Scaffolding",
+        "description": "Demonstrate safe use of scaffolding for roof plumbing work:\n• Proper scaffold assembly and inspection\n• Safe access and egress\n• Working safely on scaffolds at height\n• Loading materials safely\n• Using scaffold for roof edge work\n\nExamples:\n- Photos of properly erected scaffolding\n- Safe access practices to roof areas\n- Proper placement relative to buildings\n- Safety checks before use"
+      },
+      {
+        "title": "Levelling",
+        "description": "Show accurate leveling techniques for roof plumbing:\n• Using water levels and laser levels\n• Establishing roof falls and gradients\n• Setting out for guttering and downpipes\n• Ensuring proper drainage falls\n• Testing levels for water flow\n\nExamples:\n- Photos of leveling processes on roofs\n- Establishing gutter falls\n- Setting out for downpipes\n- Testing drainage performance"
+      },
+      {
+        "title": "Cut and join sheet metal",
+        "description": "Demonstrate cutting and joining sheet metal for roof plumbing:\n• Measuring and marking for cuts\n• Using hand and power tools for cutting\n• Creating joints and seams\n• Folding and shaping techniques\n• Joining methods (riveting, screwing, soldering)\n\nExamples:\n- Photos/videos of cutting processes\n- Creating different types of joints\n- Folding techniques for flashings\n- Weatherproof joining methods"
+      },
+      {
+        "title": "Carry out measurements",
+        "description": "Show measuring and calculation skills for roof plumbing:\n• Taking accurate roof measurements\n• Calculating material requirements\n• Measuring for fabrication\n• Setting out guttering and downpipes\n• Calculating falls and gradients\n\nExamples:\n- Photos of measuring processes on roofs\n- Material calculations and takeoffs\n- Setting out techniques\n- Documentation of measurements"
+      },
+      {
+        "title": "Fabricate/install External flashings",
+        "description": "Demonstrate fabrication and installation of roof flashings:\n• Creating custom flashings for specific applications\n• Measuring and cutting accurately\n• Installing wall and chimney flashings\n• Valley and ridge flashings\n• Ensuring weather tight seals\n\nExamples:\n- Photos/videos of flashing fabrication\n- Installation around roof penetrations\n- Valley and ridge installations\n- Completed flashing work"
+      },
+      {
+        "title": "Install roof components",
+        "description": "Show installation of roof plumbing components:\n• Guttering systems (eaves, box gutters)\n• Downpipes and rainwater systems\n• Roof drainage components\n• Roof ventilation systems\n• Rainwater collection systems\n\nExamples:\n- Photos/videos of component installation\n- Complete gutter and downpipe systems\n- Roof drainage solutions\n- Testing for proper function"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in plumbing or related fields.\n\nExamples:\n- Plumbing pre-apprenticeship certificates\n- Related construction qualifications\n- Working at heights certification\n- First aid training"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in roof plumbing.\n\nExamples:\n- Recent payslips from plumbing employers\n- Invoices for roof plumbing work completed\n- Employment contracts with plumbing companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on roof plumbing experience.\n\nExamples:\n- Current resume with roof plumbing roles\n- List of significant roofing projects\n- Specialized roof plumbing skills\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from roof plumbing employers or clients.\n\nExamples:\n- Employer references from plumbing companies\n- Client testimonials for completed roof plumbing work\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC33020": {
     "title": "Certificate III in Bricklaying and Blocklaying - Simplified Requirements",
     "photoVideo": [
-      "PPE",
-      "Use Bricklaying tools",
-      "Handle and prepare materials",
-      "Carry out Setting out",
-      "Levelling",
-      "Carry out measurements",
-      "Masonry Veneer Construction",
-      "Lay Multi thickness walls and piers"
+      {
+        "title": "PPE",
+        "description": "Show proper use of Personal Protective Equipment for bricklaying work:\n• Safety glasses for cutting and grinding\n• Dust masks and respirators\n• Gloves for handling bricks and mortar\n• Knee pads and appropriate clothing\n• Safety footwear\n• Hearing protection\n\nExamples:\n- Photos of you wearing appropriate PPE on bricklaying jobs\n- Different PPE for specific tasks\n- Evidence of PPE maintenance\n- Safe practices when handling materials"
+      },
+      {
+        "title": "Use Bricklaying tools",
+        "description": "Demonstrate proper use of bricklaying tools and equipment:\n• Trowels and levels\n• Spirit levels and plumb bobs\n• Brick hammers and bolsters\n• String lines and profiles\n• Cutting equipment (brick saws, angle grinders)\n• Mortar mixing tools\n\nExamples:\n- Photos/videos showing correct tool use\n- Tool maintenance and care\n- Safe handling of cutting equipment\n- Proper mortar mixing techniques"
+      },
+      {
+        "title": "Handle and prepare materials",
+        "description": "Show correct handling and preparation of bricklaying materials:\n• Stacking and storing bricks and blocks\n• Calculating material quantities\n• Mixing mortar to correct consistency\n• Preparing additives and bonding agents\n• Managing waste materials\n\nExamples:\n- Photos of material storage and handling\n- Mortar preparation and mixing\n- Site organization of materials\n- Safe lifting and handling techniques"
+      },
+      {
+        "title": "Carry out Setting out",
+        "description": "Demonstrate setting out for brickwork and blockwork:\n• Reading and interpreting plans\n• Establishing building lines\n• Setting out corners and profiles\n• Determining brick coursing and positions\n• Creating gauging rods\n• Establishing heights and levels\n\nExamples:\n- Photos of setting out processes\n- Corner profiles and string lines\n- Setting out to plans\n- Marking out wall positions"
+      },
+      {
+        "title": "Levelling",
+        "description": "Show accurate leveling techniques for brickwork:\n• Using spirit levels and laser levels\n• Checking horizontal courses\n• Establishing plumb vertical surfaces\n• Checking diagonal measurements\n• Maintaining consistent joint thicknesses\n\nExamples:\n- Photos of leveling processes\n- Checking plumb and level during construction\n- Establishing datum points\n- Quality checks on completed work"
+      },
+      {
+        "title": "Carry out measurements",
+        "description": "Demonstrate measuring and calculation skills for bricklaying:\n• Measuring wall lengths and heights\n• Calculating brick and block quantities\n• Determining mortar requirements\n• Working out cutting requirements\n• Checking measurements for accuracy\n\nExamples:\n- Photos of measuring processes\n- Material quantity calculations\n- Setting out measurements\n- Documentation of measurements"
+      },
+      {
+        "title": "Masonry Veneer Construction",
+        "description": "Show construction of masonry veneer walls:\n• Installing wall ties and flashings\n• Creating weep holes and ventilation\n• Working around windows and doors\n• Installing lintels and arch supports\n• Maintaining cavity clearance\n• Creating control joints\n\nExamples:\n- Photos of veneer wall construction stages\n- Flashing and tie installation\n- Window and door openings\n- Completed veneer walls"
+      },
+      {
+        "title": "Lay Multi thickness walls and piers",
+        "description": "Demonstrate construction of complex walls and piers:\n• Building corners and intersections\n• Constructing piers and engaged piers\n• Creating corbels and offsets\n• Building curved walls\n• Constructing decorative features\n• Working to consistent bonding patterns\n\nExamples:\n- Photos of multi-thickness wall construction\n- Pier construction details\n- Bonding patterns in complex walls\n- Decorative brickwork features"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in bricklaying or related fields.\n\nExamples:\n- Bricklaying pre-apprenticeship certificates\n- Related construction qualifications\n- Short course certificates\n- Material handling training"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in bricklaying and blocklaying.\n\nExamples:\n- Recent payslips from bricklaying employers\n- Invoices for brickwork completed\n- Employment contracts with bricklaying companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on bricklaying experience.\n\nExamples:\n- Current resume with bricklaying roles\n- List of significant bricklaying projects\n- Specialized bricklaying skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from bricklaying employers or clients.\n\nExamples:\n- Employer references from bricklaying companies\n- Client testimonials for completed brickwork\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC40120": {
     "title": "Certificate IV in Building and Construction - Simplified Requirements",
     "photoVideo": [
-      "Onsite wearing your PPE",
-      "Site Survey/Setting out",
-      "Site Supervision",
-      "Waste minimisation/Material storage",
-      "On the tools"
+      {
+        "title": "Onsite wearing your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment on construction sites:\n• Hard hat and safety glasses\n• High visibility clothing\n• Steel-capped safety footwear\n• Gloves appropriate for tasks\n• Hearing protection\n• Respiratory protection where required\n\nExamples:\n- Photos of you wearing appropriate PPE on construction sites\n- Different PPE for various supervision roles\n- Evidence of PPE inspections and maintenance\n- Leading by example with proper PPE use"
+      },
+      {
+        "title": "Site Survey/Setting out",
+        "description": "Show site surveying and setting out competencies:\n• Reading and interpreting site plans\n• Using leveling equipment\n• Setting out building lines and levels\n• Marking property boundaries\n• Establishing datum points\n• Setting out footings and slabs\n\nExamples:\n- Photos/videos of site survey activities\n- Setting out building works\n- Using surveying instruments\n- Documentation of set-out points"
+      },
+      {
+        "title": "Site Supervision",
+        "description": "Demonstrate construction site supervision skills:\n• Overseeing construction activities\n• Directing workers and subcontractors\n• Conducting site meetings and toolbox talks\n• Performing quality checks\n• Implementing safety procedures\n• Managing site logistics\n\nExamples:\n- Photos of you supervising construction activities\n- Conducting site meetings or toolbox talks\n- Overseeing critical construction stages\n- Inspecting and approving work quality"
+      },
+      {
+        "title": "Waste minimisation/Material storage",
+        "description": "Show effective waste management and material storage practices:\n• Organizing materials and equipment on site\n• Implementing waste management strategies\n• Proper storage of hazardous materials\n• Material protection from weather\n• Recycling and reuse practices\n• Inventory control systems\n\nExamples:\n- Photos of organized material storage areas\n- Waste management systems on site\n- Inventory tracking methods\n- Environmental protection measures"
+      },
+      {
+        "title": "On the tools",
+        "description": "Demonstrate practical construction skills and tool knowledge:\n• Using common construction tools\n• Demonstrating construction techniques\n• Performing basic construction tasks\n• Checking work quality\n• Tool maintenance and care\n\nExamples:\n- Photos/videos of you performing construction work\n- Demonstrating techniques to workers\n- Quality checking using tools\n- Hands-on involvement in construction tasks"
+      }
     ],
     "documents": [
-      "Plans/drawings",
-      "Contracts",
-      "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
-      "Material lists/purchase orders",
-      "Payslips/invoices",
-      "White Card",
-      "Previous qualifications",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "Plans/drawings",
+        "description": "Construction plans and drawings you've worked with or developed.\n\nExamples:\n- Building plans and specifications\n- Working drawings\n- Shop drawings\n- As-built documentation\n- Plans with your annotations or markups"
+      },
+      {
+        "title": "Contracts",
+        "description": "Construction contracts you've managed or been involved with.\n\nExamples:\n- Building contracts (redacted if necessary)\n- Subcontractor agreements\n- Variation documents\n- Contract administration records\n- Tender documentation"
+      },
+      {
+        "title": "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
+        "description": "Documentation demonstrating your leadership and management role.\n\nExamples:\n- Position descriptions\n- Toolbox talk records\n- Pre-start meeting minutes\n- Progress reports\n- Project schedules you've developed\n- Staff performance reviews\n- Site instructions"
+      },
+      {
+        "title": "Material lists/purchase orders",
+        "description": "Documentation showing material management and procurement.\n\nExamples:\n- Material take-offs and calculations\n- Purchase orders\n- Delivery schedules\n- Procurement documentation\n- Material approval submissions"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in building and construction.\n\nExamples:\n- Recent payslips from construction employers\n- Invoices for building work completed\n- Employment contracts\n- Client payment receipts"
+      },
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or certifications in construction.\n\nExamples:\n- Trade certificates\n- Construction-related diplomas\n- Short course completions\n- Specialized training certificates"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on building and construction experience.\n\nExamples:\n- Current resume with construction management roles\n- List of significant construction projects\n- Specialized construction management skills\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from construction employers or clients.\n\nExamples:\n- Employer references from construction companies\n- Client testimonials for completed projects\n- Work verification letters\n- Character references from industry professionals"
+      }
     ]
   },
   "CPC50220": {
     "title": "Diploma of Building and Construction (Building) - Simplified Requirements",
     "photoVideo": [
-      "Onsite wearing your PPE",
-      "Site Survey/Setting out",
-      "Site Supervision",
-      "Waste minimisation/Material storage",
-      "On the tools"
+      {
+        "title": "Onsite wearing your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment at higher level construction sites:\n• Hard hat and safety glasses\n• High visibility clothing\n• Steel-capped safety footwear\n• Site-specific PPE requirements\n• Leading by example with PPE compliance\n• Ensuring others follow PPE requirements\n\nExamples:\n- Photos of you in PPE on medium to large construction sites\n- Taking lead roles in safety compliance\n- Conducting PPE checks or inspections\n- Addressing safety issues on site"
+      },
+      {
+        "title": "Site Survey/Setting out",
+        "description": "Show advanced site surveying and setting out competencies:\n• Interpreting complex site plans and drawings\n• Working with surveyors and engineers\n• Setting out multi-level or complex buildings\n• Managing site levels and gradients\n• Checking setouts and compliance with plans\n• Resolving site issues and discrepancies\n\nExamples:\n- Photos/videos of supervising site setup activities\n- Working with survey and engineering teams\n- Reviewing and approving setouts\n- Managing complex site challenges"
+      },
+      {
+        "title": "Site Supervision",
+        "description": "Demonstrate high-level construction site supervision and management skills:\n• Managing multiple trades and contractors\n• Overseeing medium to large construction projects\n• Conducting formal site meetings and inspections\n• Implementing quality assurance systems\n• Managing construction schedules and timelines\n• Applying building codes and standards\n• Resolving construction issues\n\nExamples:\n- Photos of you supervising/managing construction sites\n- Conducting formal site meetings with multiple trades\n- Managing quality control processes\n- Interacting with regulatory authorities"
+      },
+      {
+        "title": "Waste minimisation/Material storage",
+        "description": "Show advanced material management and environmental practice implementation:\n• Developing waste management plans\n• Implementing sustainable building practices\n• Managing complex material logistics\n• Optimizing resource efficiency\n• Site environmental management\n• Tracking and reporting on waste and recycling\n\nExamples:\n- Photos of site waste management systems\n- Material tracking and inventory systems\n- Environmental management initiatives\n- Sustainable construction practices"
+      },
+      {
+        "title": "On the tools",
+        "description": "Demonstrate knowledge of building techniques and quality standards:\n• Demonstrating advanced building techniques\n• Evaluating quality of construction work\n• Providing technical guidance to workers\n• Identifying and resolving construction defects\n• Understanding advanced construction methods\n\nExamples:\n- Photos of you demonstrating or checking construction work\n- Inspecting construction quality\n- Providing technical guidance\n- Identifying and resolving construction issues"
+      }
     ],
     "documents": [
-      "Plans/drawings",
-      "Contracts",
-      "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
-      "Material lists/purchase orders",
-      "Payslips/invoices",
-      "White Card",
-      "Previous qualifications",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter"
+      {
+        "title": "Plans/drawings",
+        "description": "Complex construction plans, drawings, and specifications you've worked with or developed.\n\nExamples:\n- Complete building plans and specifications\n- Architectural drawings\n- Structural, mechanical, electrical plans\n- Construction details\n- Design variations and amendments"
+      },
+      {
+        "title": "Contracts",
+        "description": "Building contracts and legal documents you've managed or developed.\n\nExamples:\n- Major building contracts (redacted if necessary)\n- Contract administration documentation\n- Variations and contract amendments\n- Contract dispute resolution\n- Client agreements"
+      },
+      {
+        "title": "Leadership/management docs - eg. Position description/toolbox talk or prestarts/progress reports/schedules",
+        "description": "Documentation demonstrating your leadership and project management role.\n\nExamples:\n- Project management plans\n- Construction schedules and programs\n- Staff management records\n- Site meeting minutes\n- Progress reports\n- Quality assurance documentation\n- Communication with stakeholders"
+      },
+      {
+        "title": "Material lists/purchase orders",
+        "description": "Evidence of material and resource management for construction projects.\n\nExamples:\n- Project material schedules\n- Procurement documentation\n- Purchase orders for major items\n- Material approval processes\n- Cost management documentation\n- Supplier management"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in building management or supervision.\n\nExamples:\n- Payslips from building management roles\n- Invoices for building supervision services\n- Employment contracts for management positions\n- Payment records for project management"
+      },
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Site safety induction evidence"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Prior qualifications relevant to building and construction management.\n\nExamples:\n- Certificate IV in Building and Construction\n- Trade qualifications\n- Management or supervision certificates\n- Specialized building training"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Comprehensive resume showing building management experience.\n\nExamples:\n- Detailed resume with building management roles\n- Project portfolio\n- Management responsibilities\n- Project values and scopes"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from construction industry contacts.\n\nExamples:\n- References from builders or construction managers\n- Client testimonials for completed projects\n- Industry professional endorsements\n- Character references from relevant stakeholders"
+      }
     ]
   },
   "CPC31420": {
     "title": "Certificate III in Construction Waterproofing - Simplified Requirements",
     "photoVideo": [
-      "Using waterproofing tools and equipment",
-      "Onsite in your PPE",
-      "Preparing surfaces for waterproofing application",
-      "Handling and storing waterproofing materials",
-      "Carrying out measurements and calculations",
-      "Applying basic levelling procedures",
-      "Applying waterproofing to internal wet areas",
-      "Performing waterproofing remedial processes"
+      {
+        "title": "Using waterproofing tools and equipment",
+        "description": "Demonstrate proper use of waterproofing tools and equipment:\n• Application tools (rollers, brushes, trowels)\n• Mixing equipment for liquid membranes\n• Measuring and cutting tools for sheet membranes\n• Moisture meters and testing equipment\n• Heat welding equipment for sheet membranes\n• Surface preparation tools\n\nExamples:\n- Photos/videos showing correct tool use\n- Different application techniques\n- Testing equipment operation\n- Tool maintenance and care"
+      },
+      {
+        "title": "Onsite in your PPE",
+        "description": "Show proper use of Personal Protective Equipment for waterproofing work:\n• Chemical-resistant gloves and clothing\n• Respirators for working with membranes and solvents\n• Eye protection\n• Knee pads\n• Safety footwear\n• Skin protection\n\nExamples:\n- Photos of you wearing appropriate PPE for waterproofing tasks\n- Different PPE for various waterproofing systems\n- Evidence of respiratory protection for working with solvents\n- PPE specific to working in confined spaces"
+      },
+      {
+        "title": "Preparing surfaces for waterproofing application",
+        "description": "Demonstrate surface preparation techniques for waterproofing:\n• Cleaning and removing contaminants\n• Moisture testing and assessment\n• Repairing substrate defects\n• Creating falls to waste points\n• Installing bond-breakers and fillets\n• Priming surfaces\n\nExamples:\n- Photos/videos of surface preparation\n- Substrate testing procedures\n- Before and after preparation images\n- Defect repair techniques"
+      },
+      {
+        "title": "Handling and storing waterproofing materials",
+        "description": "Show proper handling and storage of waterproofing materials:\n• Storage of liquid membranes\n• Handling sheet membranes\n• Temperature-controlled storage\n• Shelf-life management\n• Material safety data sheet compliance\n• Transport and site storage\n\nExamples:\n- Photos of organized material storage\n- Temperature monitoring systems\n- Site handling procedures\n- Safe disposal of waste materials"
+      },
+      {
+        "title": "Carrying out measurements and calculations",
+        "description": "Demonstrate measuring and calculation skills for waterproofing:\n• Measuring areas to be waterproofed\n• Calculating material quantities\n• Measuring fall gradients\n• Determining curing times\n• Calculating mixing ratios\n• Measuring moisture content\n\nExamples:\n- Photos of measuring processes\n- Area calculations and material quantities\n- Fall measurements\n- Moisture testing and documentation"
+      },
+      {
+        "title": "Applying basic levelling procedures",
+        "description": "Show leveling techniques for waterproofing substrates:\n• Creating falls to drains\n• Screeding and leveling surfaces\n• Using spirit and laser levels\n• Installing puddle flanges\n• Setting heights for thresholds\n• Creating uniform surfaces\n\nExamples:\n- Photos/videos of leveling processes\n- Creating falls to waste points\n- Screed application techniques\n- Level checking methods"
+      },
+      {
+        "title": "Applying waterproofing to internal wet areas",
+        "description": "Demonstrate waterproofing of internal wet areas:\n• Shower recesses\n• Bathroom floors and walls\n• Laundries and wet process areas\n• Bond breakers and reinforcement\n• Membrane application techniques\n• Treatment of penetrations\n• Detailing at critical junctions\n\nExamples:\n- Photos/videos of wet area waterproofing\n- Sequential application process\n- Joint and corner treatments\n- Penetration sealing\n- Completed installations"
+      },
+      {
+        "title": "Performing waterproofing remedial processes",
+        "description": "Show remedial waterproofing techniques:\n• Leak detection methods\n• Removing failed waterproofing\n• Repairing damaged substrates\n• Addressing drainage issues\n• Applying remedial systems\n• Testing after remediation\n\nExamples:\n- Photos of remedial work processes\n- Before and after remediation\n- Water testing procedures\n- Diagnostic techniques\n- Completed remedial solutions"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter",
-      "Waterproofing system specifications",
-      "Material safety data sheets (MSDS)",
-      "Site inspection reports",
-      "Moisture testing documentation",
-      "Job quotes and estimates",
-      "Waterproofing compliance certificates",
-      "Project completion sign-offs",
-      "Client approval documentation"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in waterproofing or construction.\n\nExamples:\n- Waterproofing pre-apprenticeship certificates\n- Related construction qualifications\n- Manufacturer training certificates\n- Specialized waterproofing courses"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in waterproofing.\n\nExamples:\n- Recent payslips from waterproofing employers\n- Invoices for waterproofing work completed\n- Employment contracts with waterproofing companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on waterproofing experience.\n\nExamples:\n- Current resume with waterproofing roles\n- List of significant waterproofing projects\n- Specialized waterproofing skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from waterproofing employers or clients.\n\nExamples:\n- Employer references from waterproofing companies\n- Client testimonials for completed waterproofing work\n- Work verification letters\n- Character references from industry professionals"
+      },
+      {
+        "title": "Waterproofing system specifications",
+        "description": "Technical specifications for waterproofing systems you've worked with.\n\nExamples:\n- Manufacturer specifications\n- Application guidelines\n- System details and components\n- Performance requirements"
+      },
+      {
+        "title": "Material safety data sheets (MSDS)",
+        "description": "Safety documentation for waterproofing materials you've used.\n\nExamples:\n- Current MSDS for membranes\n- Safety data for primers and adhesives\n- Chemical handling information\n- First aid procedures"
+      },
+      {
+        "title": "Site inspection reports",
+        "description": "Documentation of waterproofing site inspections.\n\nExamples:\n- Pre-application inspection reports\n- Quality control checks\n- Substrate assessment records\n- Final inspection certificates"
+      },
+      {
+        "title": "Moisture testing documentation",
+        "description": "Evidence of moisture testing procedures and results.\n\nExamples:\n- Moisture test reports\n- Testing equipment calibration\n- Substrate moisture records\n- Remedial recommendations"
+      },
+      {
+        "title": "Job quotes and estimates",
+        "description": "Quotations and estimates for waterproofing work.\n\nExamples:\n- Detailed project quotes\n- Material quantity calculations\n- Scope of work specifications\n- Pricing breakdowns"
+      },
+      {
+        "title": "Waterproofing compliance certificates",
+        "description": "Certificates showing waterproofing compliance with standards.\n\nExamples:\n- Australian Standards compliance\n- Building code certificates\n- System warranties\n- Code compliance documentation"
+      },
+      {
+        "title": "Project completion sign-offs",
+        "description": "Documentation showing successful completion of waterproofing projects.\n\nExamples:\n- Client sign-off forms\n- Project completion certificates\n- Handover documentation\n- Quality assurance sign-offs"
+      },
+      {
+        "title": "Client approval documentation",
+        "description": "Evidence of client satisfaction and project approval.\n\nExamples:\n- Client acceptance forms\n- Project approval certificates\n- Defect-free completion notices\n- Client satisfaction surveys"
+      }
     ]
   },
   "MEM30322": {
     "title": "Certificate III in Engineering - Fabrication Trade - Simplified Requirements",
     "photoVideo": [
-      "Onsite in your PPE",
-      "Using hand tools for fabrication work",
-      "Operating power tools for metal work",
-      "Performing manual metal arc welding (MMAW)",
-      "Performing gas metal arc welding (GMAW/MIG)",
-      "Performing gas tungsten arc welding (GTAW/TIG)",
-      "Carrying out oxy-fuel cutting and heating",
-      "Performing mechanical cutting operations",
-      "Carrying out precision measurements",
-      "Reading and interpreting technical drawings",
-      "Assembling fabricated components",
-      "Applying fabrication, forming and shaping techniques",
-      "Dismantling and reassembling engineering components",
-      "Working safely with industrial chemicals",
-      "Operating and monitoring machines and processes",
-      "Repairing and modifying fabrications"
+      {
+        "title": "Onsite in your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment for fabrication work:\n• Welding helmet/face shield\n• Flame-resistant clothing\n• Leather gloves and aprons\n• Safety glasses and face shields\n• Hearing protection\n• Steel-capped boots\n• Respiratory protection\n\nExamples:\n- Photos of you wearing appropriate PPE for different fabrication tasks\n- Specific PPE for welding, grinding, and cutting\n- Face and eye protection for various processes\n- Proper respiratory protection for different fabrication activities"
+      },
+      {
+        "title": "Using hand tools for fabrication work",
+        "description": "Show proper use of hand tools for metal fabrication:\n• Measuring and marking tools\n• Metal snips and shears\n• Files and deburring tools\n• Hammers and mallets\n• Punches and chisels\n• Clamps and vices\n• Hand drills and threading tools\n\nExamples:\n- Photos/videos demonstrating correct hand tool techniques\n- Precision measurement and marking out\n- Tool selection for different applications\n- Safe handling and maintenance practices"
+      },
+      {
+        "title": "Operating power tools for metal work",
+        "description": "Demonstrate use of power tools for metal fabrication:\n• Angle grinders and sanders\n• Power drills and magnetic drills\n• Power shears and nibblers\n• Thread tapping machines\n• Power hacksaws\n• Impact wrenches\n• Metal cutting circular saws\n\nExamples:\n- Photos/videos showing safe operation of power tools\n- Proper tool selection for different materials\n- Tool maintenance and inspection\n- Safe working practices with power equipment"
+      },
+      {
+        "title": "Performing manual metal arc welding (MMAW)",
+        "description": "Show manual metal arc (stick) welding techniques:\n• Electrode selection and preparation\n• Machine setup and adjustment\n• Welding in different positions (flat, horizontal, vertical, overhead)\n• Creating different joint types (butt, lap, T, corner)\n• Controlling heat input and penetration\n• Weld bead techniques and patterns\n\nExamples:\n- Photos/videos of MMAW process\n- Different weld joint types\n- Testing and inspection of welds\n- Completed MMAW projects"
+      },
+      {
+        "title": "Performing gas metal arc welding (GMAW/MIG)",
+        "description": "Demonstrate gas metal arc (MIG) welding skills:\n• Wire selection and feed system setup\n• Gas selection and flow adjustment\n• Machine parameter setting\n• Welding technique and torch manipulation\n• Different transfer modes (short circuit, spray, pulse)\n• Welding different metal thicknesses\n\nExamples:\n- Photos/videos of MIG welding processes\n- Setting up MIG welding equipment\n- Welding different materials and thicknesses\n- Completed MIG welding projects"
+      },
+      {
+        "title": "Performing gas tungsten arc welding (GTAW/TIG)",
+        "description": "Show gas tungsten arc (TIG) welding techniques:\n• Tungsten preparation and selection\n• Filler rod selection and technique\n• Gas cup and flow setup\n• Foot pedal/fingertip control use\n• Welding different metals (steel, aluminum, stainless)\n• Precision welding techniques\n\nExamples:\n- Photos/videos of TIG welding processes\n- Welding thin materials\n- Precision joint work\n- Completed TIG welding projects showing quality"
+      },
+      {
+        "title": "Carrying out oxy-fuel cutting and heating",
+        "description": "Demonstrate oxy-fuel cutting and heating skills:\n• Setting up oxy-acetylene equipment\n• Adjusting gas pressures and flame types\n• Performing straight and profile cuts\n• Piercing and cutting techniques\n• Metal preheating procedures\n• Safe gas handling and storage\n\nExamples:\n- Photos/videos of oxy-fuel cutting operations\n- Equipment setup and adjustment\n- Different cutting patterns and techniques\n- Metal heating for forming or straightening"
+      },
+      {
+        "title": "Performing mechanical cutting operations",
+        "description": "Show mechanical cutting techniques for metal fabrication:\n• Using power shears and plate cutters\n• Operating band saws and cold saws\n• Plasma cutting setup and operation\n• CNC cutting machine operation\n• Setting speeds and feeds for different materials\n• Material handling during cutting operations\n\nExamples:\n- Photos/videos of mechanical cutting processes\n- Setting up cutting equipment\n- Material handling for cutting operations\n- Completed cut components"
+      },
+      {
+        "title": "Carrying out precision measurements",
+        "description": "Demonstrate precision measurement skills in fabrication:\n• Using micrometers and vernier calipers\n• Steel rules and measuring tapes\n• Squares and bevels\n• Height and depth gauges\n• Dial indicators and gauges\n• Digital measuring tools\n\nExamples:\n- Photos of taking precise measurements\n- Using different measuring instruments\n- Checking dimensions against drawings\n- Quality verification procedures"
+      },
+      {
+        "title": "Reading and interpreting technical drawings",
+        "description": "Show ability to interpret fabrication drawings and plans:\n• Reading engineering drawings\n• Interpreting welding symbols\n• Understanding tolerances and dimensions\n• Identifying material specifications\n• Developing cutting lists\n• Creating fabrication plans from drawings\n\nExamples:\n- Photos of you working with technical drawings\n- Marked up drawings for fabrication\n- Translating drawings to fabricated components\n- Drawing interpretation for work planning"
+      },
+      {
+        "title": "Assembling fabricated components",
+        "description": "Demonstrate assembly of fabricated components:\n• Using jigs and fixtures\n• Component alignment techniques\n• Tack welding procedures\n• Controlling distortion during assembly\n• Assembly sequence planning\n• Finishing and cleaning assemblies\n\nExamples:\n- Photos/videos of assembly processes\n- Using alignment tools and jigs\n- Assembly sequence documentation\n- Completed fabrication assemblies"
+      },
+      {
+        "title": "Applying fabrication, forming and shaping techniques",
+        "description": "Show metal forming and shaping skills:\n• Bending and folding techniques\n• Roll forming operations\n• Pressing and stamping procedures\n• Shrinking and stretching metal\n• Heat forming methods\n• Creating complex shapes\n\nExamples:\n- Photos/videos of forming processes\n- Operating brake presses and rolls\n• Using forming tools and equipment\n- Completed formed components"
+      },
+      {
+        "title": "Dismantling and reassembling engineering components",
+        "description": "Demonstrate component disassembly and reassembly skills:\n• Systematic disassembly procedures\n• Component marking and organization\n• Inspection during disassembly\n• Cleaning and preparing parts\n• Reassembly techniques and sequences\n• Testing after reassembly\n\nExamples:\n- Photos/videos of disassembly/reassembly processes\n- Documenting component positions\n- Inspection and fault identification\n- Successfully rebuilt assemblies"
+      },
+      {
+        "title": "Working safely with industrial chemicals",
+        "description": "Show safe handling of chemicals in fabrication:\n• Proper storage and handling\n• Using cleaning solvents and degreasers\n• Applying surface treatments\n• Chemical waste disposal\n• Reading and applying MSDS information\n• Using appropriate PPE for chemical handling\n\nExamples:\n- Photos of proper chemical handling\n- Safe storage practices\n- Chemical safety equipment use\n- Spill containment and cleanup procedures"
+      },
+      {
+        "title": "Operating and monitoring machines and processes",
+        "description": "Demonstrate operation of fabrication machinery:\n• Setting up and operating lathes\n• Using milling machines for fabrication\n• Operating drilling machines\n• Press operation techniques\n• Setting speeds and feeds\n• Monitoring machine performance\n\nExamples:\n- Photos/videos of machine operation\n- Setting up workpieces and tooling\n- Safe operation practices\n- Completed machined components"
+      },
+      {
+        "title": "Repairing and modifying fabrications",
+        "description": "Show repair and modification techniques for metal fabrications:\n• Assessing damage and wear\n• Planning repair procedures\n• Metal build-up techniques\n• Straightening and aligning\n• Modification processes\n• Testing and verifying repairs\n\nExamples:\n- Photos/videos of repair processes\n- Before and after repair documentation\n- Modification planning\n- Completed repair/modification work"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter",
-      "Welding procedure specifications (WPS)",
-      "Fabrication drawings and plans",
-      "Material test certificates",
-      "Weld inspection reports",
-      "Job cards and work orders",
-      "Quality control documentation",
-      "Risk assessments for fabrication tasks",
-      "Material requisition forms"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in engineering or fabrication.\n\nExamples:\n- Engineering pre-apprenticeship certificates\n- Related training qualifications\n- Specialized fabrication courses\n- Welding certifications"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in engineering fabrication.\n\nExamples:\n- Recent payslips from engineering employers\n- Invoices for fabrication work completed\n- Employment contracts with fabrication companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on fabrication experience.\n\nExamples:\n- Current resume with fabrication roles\n- List of significant fabrication projects\n- Specialized fabrication skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from fabrication employers or clients.\n\nExamples:\n- Employer references from fabrication companies\n- Client testimonials for completed projects\n- Work verification letters\n- Character references from industry professionals"
+      },
+      {
+        "title": "Welding procedure specifications (WPS)",
+        "description": "Technical specifications for welding procedures you've followed.\n\nExamples:\n- Formal WPS documents\n- Welding parameters for different materials\n- Joint preparation details\n- Post-weld treatment specifications"
+      },
+      {
+        "title": "Fabrication drawings and plans",
+        "description": "Technical drawings for fabrication projects you've worked on.\n\nExamples:\n- Engineering drawings with your annotations\n- Fabrication plans you've created or interpreted\n- Shop drawings for fabrication\n- As-built documentation"
+      },
+      {
+        "title": "Material test certificates",
+        "description": "Certification documents for materials used in fabrication.\n\nExamples:\n- Mill certificates for steel\n- Material composition reports\n- Testing certification for special materials\n- Compliance documentation"
+      },
+      {
+        "title": "Weld inspection reports",
+        "description": "Reports showing inspection and testing of welding work.\n\nExamples:\n- Visual inspection reports\n- Non-destructive testing results\n- Weld quality verification\n- Defect identification and remediation"
+      },
+      {
+        "title": "Job cards and work orders",
+        "description": "Documentation of fabrication tasks and work assignments.\n\nExamples:\n- Completed job cards\n- Work orders you've fulfilled\n- Task descriptions and requirements\n- Fabrication specifications"
+      },
+      {
+        "title": "Quality control documentation",
+        "description": "Evidence of quality assurance processes in fabrication work.\n\nExamples:\n- Inspection checklists\n- Quality verification records\n- Dimensional check reports\n- Non-conformance documentation"
+      },
+      {
+        "title": "Risk assessments for fabrication tasks",
+        "description": "Safety risk assessment documentation for fabrication work.\n\nExamples:\n- Task-specific risk assessments\n- Safe work method statements\n- Hazard identification\n- Control measure implementation"
+      },
+      {
+        "title": "Material requisition forms",
+        "description": "Documentation for ordering and requesting fabrication materials.\n\nExamples:\n- Material requisition forms\n- Order documentation\n- Material specifications\n- Supply chain records"
+      }
     ]
   },
   "MEM30219": {
     "title": "Certificate III in Engineering - Mechanical Trade - Simplified Requirements",
     "photoVideo": [
-      "Onsite in your PPE",
-      "Using hand tools for mechanical work",
-      "Operating power tools for engineering tasks",
-      "Performing precision measurements",
-      "Reading and interpreting technical drawings",
-      "Carrying out mechanical cutting operations",
-      "Performing general machining operations",
-      "Operating workshop machines (lathes, mills, drills)",
-      "Performing grinding operations",
-      "Marking out engineering components",
-      "Installing and aligning machinery",
-      "Dismantling and reassembling engineering components",
-      "Performing precision fitting of components",
-      "Balancing rotating equipment",
-      "Performing precision levelling and alignment",
-      "Shutting down and isolating machines safely"
+      {
+        "title": "Onsite in your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment for mechanical engineering work:\n• Safety glasses/face shields\n• Hearing protection\n• Steel-capped safety boots\n• Protective gloves appropriate for tasks\n• Respiratory protection where required\n• Coveralls or appropriate work clothing\n• Head protection in designated areas\n\nExamples:\n- Photos of you wearing appropriate PPE for different mechanical tasks\n- Task-specific PPE (welding, grinding, machining)\n- Proper respirator use for hazardous areas\n- Safety practices in mechanical workshops"
+      },
+      {
+        "title": "Using hand tools for mechanical work",
+        "description": "Show proper use of hand tools for mechanical engineering:\n• Spanners, sockets, and wrenches\n• Screwdrivers and hex keys\n• Files, chisels, and punches\n• Hammers and mallets\n• Hacksaws and other cutting tools\n• Torque wrenches and measuring tools\n• Hand threading and tapping tools\n\nExamples:\n- Photos/videos demonstrating correct hand tool techniques\n- Tool selection for different mechanical tasks\n- Fastener removal and installation\n- Precision hand tool operations"
+      },
+      {
+        "title": "Operating power tools for engineering tasks",
+        "description": "Demonstrate use of power tools for mechanical engineering:\n• Portable drills and drill presses\n• Angle grinders and bench grinders\n• Impact wrenches and drivers\n• Power saws (reciprocating, circular)\n• Pneumatic tools\n• Electric and hydraulic tools\n• Threading machines\n\nExamples:\n- Photos/videos showing safe operation of power tools\n- Proper tool selection for materials and tasks\n- Tool maintenance and inspection\n- Safe working practices with powered equipment"
+      },
+      {
+        "title": "Performing precision measurements",
+        "description": "Show precision measurement skills in mechanical engineering:\n• Using micrometers (internal, external, depth)\n• Vernier calipers and height gauges\n• Dial indicators and test indicators\n• Gauge blocks and surface plates\n• Thread gauges and radius gauges\n• Digital measuring instruments\n• Coordinate measuring machines\n\nExamples:\n- Photos of taking precision measurements\n- Reading various measuring instruments\n- Calibration checking processes\n- Component inspection techniques"
+      },
+      {
+        "title": "Reading and interpreting technical drawings",
+        "description": "Demonstrate ability to interpret engineering drawings:\n• Reading orthographic projections\n• Understanding GD&T symbols\n• Interpreting tolerances and fits\n• Reading sectional views\n• Identifying materials and finishes\n• Working with assembly drawings\n• Extracting dimensions and specifications\n\nExamples:\n- Photos of you working with engineering drawings\n- Marked up drawings for manufacturing\n- Translation of drawings to finished components\n- Using drawings for inspection purposes"
+      },
+      {
+        "title": "Carrying out mechanical cutting operations",
+        "description": "Show mechanical cutting techniques:\n• Operating power hacksaws\n• Using band saws (vertical/horizontal)\n• Cold saw operation\n• Plasma and flame cutting\n• Shearing operations\n• Setting speeds and feeds\n• Material handling during cutting\n\nExamples:\n- Photos/videos of mechanical cutting processes\n- Setting up cutting equipment\n- Measuring and marking materials for cutting\n- Finished cut components with quality edges"
+      },
+      {
+        "title": "Performing general machining operations",
+        "description": "Demonstrate basic machining skills:\n• Setting up workpieces and tooling\n• Selecting cutting tools and parameters\n• Calculating speeds and feeds\n• Performing turning operations\n• Conducting milling operations\n• Drilling precise holes\n• Threading operations\n\nExamples:\n- Photos/videos of machining processes\n- Setup procedures for different operations\n- Tool selection and preparation\n- Finished machined components"
+      },
+      {
+        "title": "Operating workshop machines (lathes, mills, drills)",
+        "description": "Show proficiency with major workshop machines:\n• Setting up and operating lathes\n• Mill setup and operation\n• Drill press procedures\n• Work holding devices\n• Machine maintenance\n• Safety procedures for machine operation\n• Quality checking during machining\n\nExamples:\n- Photos/videos of you operating workshop machines\n- Machine setup procedures\n- Different machining operations\n- Safety practices during machine operation"
+      },
+      {
+        "title": "Performing grinding operations",
+        "description": "Demonstrate grinding techniques and skills:\n• Surface grinding operations\n• Cylindrical grinding processes\n• Tool and cutter grinding\n• Offhand grinding\n• Dressing grinding wheels\n• Wheel selection for materials\n• Precision grinding techniques\n\nExamples:\n- Photos/videos of grinding operations\n- Wheel mounting and dressing\n- Precision ground components\n- Tool sharpening techniques"
+      },
+      {
+        "title": "Marking out engineering components",
+        "description": "Show marking out skills for mechanical components:\n• Using marking out tools (scribers, dividers)\n• Working with surface plates and angle plates\n• Establishing datum points\n• Marking center points and hole positions\n• Layout of features and dimensions\n• Using precision squares and protractors\n\nExamples:\n- Photos of marking out processes\n- Using various marking tools\n- Completed marked components\n- Transfer of drawings to workpieces"
+      },
+      {
+        "title": "Installing and aligning machinery",
+        "description": "Demonstrate machinery installation and alignment:\n• Foundation preparation\n• Machine positioning and leveling\n• Alignment techniques (straight edge, dial indicators)\n• Laser alignment methods\n• Fastening to foundations\n• Checking for soft foot conditions\n• Final alignment verification\n\nExamples:\n- Photos/videos of machinery installation\n- Alignment checking procedures\n- Shimming and adjustment techniques\n- Completed machinery installations"
+      },
+      {
+        "title": "Dismantling and reassembling engineering components",
+        "description": "Show component disassembly and reassembly skills:\n• Systematic disassembly procedures\n• Parts identification and organization\n• Component cleaning and inspection\n• Measuring for wear and damage\n• Reassembly sequences and techniques\n• Applying correct torque to fasteners\n• Testing after reassembly\n\nExamples:\n- Photos/videos of disassembly/reassembly processes\n- Organized parts during maintenance\n• Inspection techniques for components\n- Completed rebuilt assemblies"
+      },
+      {
+        "title": "Performing precision fitting of components",
+        "description": "Demonstrate precision fitting skills:\n• Measuring and preparing components for assembly\n• Hand fitting techniques\n• Creating precision fits (clearance, interference)\n• Surface finishing for proper function\n• Aligning mating components\n• Testing assembled components\n• Adjusting for proper operation\n\nExamples:\n- Photos of precision fitting processes\n- Hand-fitting operations\n- Measuring fits and clearances\n- Completed precision assemblies"
+      },
+      {
+        "title": "Balancing rotating equipment",
+        "description": "Show balancing techniques for rotating equipment:\n• Static balancing procedures\n• Dynamic balancing equipment use\n• Identifying imbalance conditions\n• Adding or removing material for balance\n• Documenting balance results\n• Testing after balancing\n• Vibration analysis basics\n\nExamples:\n- Photos of balancing processes\n- Using balancing equipment\n- Recording imbalance measurements\n- Testing balanced components"
+      },
+      {
+        "title": "Performing precision levelling and alignment",
+        "description": "Demonstrate precision alignment techniques:\n• Using precision levels\n• Shaft alignment procedures\n• Dial indicator setup and use\n• Laser alignment equipment\n• Measuring and correcting misalignment\n• Documenting alignment results\n• Geometric alignment of machines\n\nExamples:\n- Photos of alignment processes\n- Using alignment tools and equipment\n- Documenting alignment readings\n- Completed precision alignments"
+      },
+      {
+        "title": "Shutting down and isolating machines safely",
+        "description": "Show proper machine isolation and shutdown procedures:\n• Energy isolation techniques\n• Lockout/tagout procedures\n• Verifying zero energy state\n• Securing machines for maintenance\n• Safe restart procedures\n• Emergency shutdown protocols\n• Documentation of isolation\n\nExamples:\n- Photos of lockout/tagout procedures\n- Energy isolation devices in use\n- Safety permits and documentation\n- Proper shutdown sequences"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter",
-      "Maintenance logs and reports",
-      "Job sheets and work orders",
-      "Machinery inspection records",
-      "Technical drawings you've worked with",
-      "Material requisition forms",
-      "Quality control documentation",
-      "Risk assessments for mechanical tasks",
-      "Calibration certificates for measuring tools"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Any relevant previous qualifications or training certificates in engineering or mechanical trades.\n\nExamples:\n- Engineering pre-apprenticeship certificates\n- Related training qualifications\n- Specialized mechanical trade courses\n- Machining certificates"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in mechanical engineering.\n\nExamples:\n- Recent payslips from engineering employers\n- Invoices for mechanical work completed\n- Employment contracts with engineering companies\n- Client payment receipts"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Detailed work history and skills summary focused on mechanical engineering experience.\n\nExamples:\n- Current resume with mechanical trade roles\n- List of significant engineering projects\n- Specialized mechanical skills and techniques\n- Work history timeline in the industry"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from engineering employers or clients.\n\nExamples:\n- Employer references from engineering companies\n- Client testimonials for completed projects\n- Work verification letters\n- Character references from industry professionals"
+      },
+      {
+        "title": "Maintenance logs and reports",
+        "description": "Documentation of maintenance activities you've performed.\n\nExamples:\n- Completed maintenance records\n- Preventative maintenance schedules\n- Repair documentation\n- Machinery service history"
+      },
+      {
+        "title": "Job sheets and work orders",
+        "description": "Documentation of mechanical engineering tasks and assignments.\n\nExamples:\n- Completed job cards\n- Work orders you've fulfilled\n- Task descriptions and requirements\n- Engineering specifications"
+      },
+      {
+        "title": "Machinery inspection records",
+        "description": "Evidence of machinery inspections and condition assessments.\n\nExamples:\n- Inspection checklists\n- Machine condition reports\n- Defect identification records\n- Safety inspection documentation"
+      },
+      {
+        "title": "Technical drawings you've worked with",
+        "description": "Engineering drawings and plans for projects you've completed.\n\nExamples:\n- Engineering drawings with your annotations\n- Parts diagrams you've used\n- Assembly drawings\n- Component specifications"
+      },
+      {
+        "title": "Material requisition forms",
+        "description": "Documentation for ordering engineering materials and parts.\n\nExamples:\n- Material orders and requisitions\n- Parts ordering documentation\n- Supply requests\n- Stock control records"
+      },
+      {
+        "title": "Quality control documentation",
+        "description": "Evidence of quality assurance processes in engineering work.\n\nExamples:\n- Quality inspection records\n- Tolerance verification documents\n- Non-conformance reports\n- Quality improvement actions"
+      },
+      {
+        "title": "Risk assessments for mechanical tasks",
+        "description": "Safety risk assessment documentation for mechanical engineering work.\n\nExamples:\n- Task-specific risk assessments\n- Safe work method statements\n- Hazard identification records\n- Control measure documentation"
+      },
+      {
+        "title": "Calibration certificates for measuring tools",
+        "description": "Certification documents for precision measuring equipment.\n\nExamples:\n- Calibration records for micrometers\n- Verification certificates for calipers\n- Gauge block certification\n- Measuring tool traceability documents"
+      }
     ]
   },
   "CPC60220": {
     "title": "Advanced Diploma of Building and Construction (Management) - Simplified Requirements",
     "photoVideo": [
-      "Onsite in your PPE",
-      "Managing construction projects",
-      "Conducting site inspections and quality checks",
-      "Reviewing building plans and specifications",
-      "Implementing WHS management systems",
-      "Conducting risk assessments",
-      "Managing contract administration",
-      "Overseeing environmental management processes",
-      "Coordinating with contractors and/or stakeholders",
-      "Ensuring compliance with building codes and standards",
-      "Managing documentation processes",
-      "Implementing sustainability practices on construction sites"
+      {
+        "title": "Onsite in your PPE",
+        "description": "Demonstrate proper use of Personal Protective Equipment on advanced construction sites:\n• Hard hat and safety glasses\n• High visibility clothing\n• Steel-capped safety footwear\n• Additional site-specific PPE requirements\n• Leading by example with PPE compliance\n• Conducting PPE inspections and enforcement\n\nExamples:\n- Photos of you in appropriate PPE on large or complex construction sites\n- Taking leadership role in safety practices\n- Conducting safety meetings while properly attired\n- Addressing safety issues with appropriate protection"
+      },
+      {
+        "title": "Managing construction projects",
+        "description": "Show evidence of managing significant construction projects:\n• Overseeing construction activities and timelines\n• Leading project meetings and briefings\n• Managing multiple contractors and trades\n• Implementing project control systems\n• Monitoring project budgets and resources\n• Problem-solving complex construction issues\n\nExamples:\n- Photos of you managing on-site operations\n- Leading project meetings with stakeholders\n- Reviewing project documentation on-site\n- Coordinating critical construction phases"
+      },
+      {
+        "title": "Conducting site inspections and quality checks",
+        "description": "Demonstrate advanced quality management skills:\n• Performing detailed site inspections\n• Identifying construction defects and issues\n• Implementing quality control procedures\n• Documenting inspection findings\n• Ensuring compliance with specifications\n• Implementing corrective actions\n\nExamples:\n- Photos of inspection activities on complex projects\n- Using quality control tools and equipment\n- Documenting inspection findings\n- Verifying construction quality standards"
+      },
+      {
+        "title": "Reviewing building plans and specifications",
+        "description": "Show competence in interpreting complex construction documentation:\n• Analyzing architectural and engineering drawings\n• Reviewing technical specifications\n• Identifying construction requirements\n• Resolving documentation discrepancies\n• Coordinating with design professionals\n• Planning construction methods from drawings\n\nExamples:\n- Photos of you reviewing plans on-site\n- Using digital documentation systems\n- Coordinating drawing details with construction\n- Working with design teams to resolve issues"
+      },
+      {
+        "title": "Implementing WHS management systems",
+        "description": "Demonstrate implementation of comprehensive safety systems:\n• Developing site-specific safety plans\n• Conducting safety audits and inspections\n• Managing safety documentation and reporting\n• Leading safety meetings and training\n• Investigating incidents and near-misses\n• Implementing corrective safety measures\n\nExamples:\n- Photos of safety system implementation\n- Conducting safety briefings and meetings\n- Performing safety inspections and audits\n• Addressing safety concerns on site"
+      },
+      {
+        "title": "Conducting risk assessments",
+        "description": "Show advanced risk management capabilities:\n• Identifying construction hazards and risks\n• Evaluating risk severity and likelihood\n• Developing risk control strategies\n• Implementing risk mitigation measures\n• Reviewing and updating risk assessments\n• Communicating risk information to stakeholders\n\nExamples:\n- Photos of risk assessment activities\n- Hazard identification processes\n- Risk workshops with project teams\n- Risk documentation and communication"
+      },
+      {
+        "title": "Managing contract administration",
+        "description": "Demonstrate contract management expertise:\n• Administering construction contracts\n• Processing variations and claims\n• Managing contractual disputes\n• Ensuring compliance with contract terms\n• Coordinating with legal and financial teams\n• Maintaining contract documentation\n\nExamples:\n- Photos of contract review meetings\n- Managing contractual documentation\n- Negotiating with contractors and clients\n- Resolving contractual issues on projects"
+      },
+      {
+        "title": "Overseeing environmental management processes",
+        "description": "Show implementation of environmental management:\n• Developing environmental management plans\n• Implementing erosion and sediment controls\n• Managing noise, dust, and vibration\n• Protecting natural features during construction\n• Ensuring compliance with environmental regulations\n• Conducting environmental inspections\n\nExamples:\n- Photos of environmental controls on sites\n- Inspecting environmental protection measures\n- Implementing waste management systems\n- Addressing environmental incidents"
+      },
+      {
+        "title": "Coordinating with contractors and/or stakeholders",
+        "description": "Demonstrate stakeholder management skills:\n• Leading meetings with multiple stakeholders\n• Coordinating contractor activities and schedules\n• Resolving conflicts between parties\n• Managing client expectations and requirements\n• Communicating effectively with all stakeholders\n• Building collaborative project relationships\n\nExamples:\n- Photos of coordination meetings\n- Site briefings with multiple contractors\n- Client presentations and consultations\n- Stakeholder engagement activities"
+      },
+      {
+        "title": "Ensuring compliance with building codes and standards",
+        "description": "Show expertise in building compliance:\n• Interpreting building codes and standards\n• Ensuring construction meets regulatory requirements\n• Managing building certification processes\n• Coordinating with building surveyors and authorities\n• Addressing compliance issues during construction\n• Documenting compliance evidence\n\nExamples:\n- Photos of compliance inspection activities\n- Building code reference materials in use\n- Liaising with building officials\n- Addressing non-compliance issues"
+      },
+      {
+        "title": "Managing documentation processes",
+        "description": "Demonstrate advanced document control systems:\n• Implementing document management systems\n• Maintaining project records and archives\n• Managing drawing and specification revisions\n• Ensuring proper distribution of information\n• Tracking approvals and certifications\n• Implementing quality documentation processes\n\nExamples:\n- Photos of document control activities\n- Managing digital documentation systems\n- Conducting document review meetings\n- Organizing project documentation repositories"
+      },
+      {
+        "title": "Implementing sustainability practices on construction sites",
+        "description": "Show leadership in sustainable construction:\n• Implementing energy and water efficiency measures\n• Managing sustainable material selection\n• Reducing construction waste and recycling\n• Meeting green building certification requirements\n• Monitoring sustainability performance metrics\n• Promoting sustainable practices to teams\n\nExamples:\n- Photos of sustainable practices implementation\n- Green building initiatives on projects\n- Waste separation and recycling systems\n- Environmentally responsible construction methods"
+      }
     ],
     "documents": [
-      "White Card",
-      "Previous qualifications",
-      "Payslips/invoices",
-      "100 pts of ID",
-      "Resume",
-      "Reference letter",
-      "Project management plans",
-      "Risk management documentation",
-      "Contract administration records",
-      "Building approval documentation",
-      "Environmental management plans",
-      "Cost estimates and budget reports",
-      "Project schedules and timelines",
-      "WHS compliance documentation",
-      "Quality assurance records",
-      "Meeting minutes with stakeholders"
+      {
+        "title": "White Card",
+        "description": "Construction Induction Card (White Card) showing completion of general construction safety training.\n\nExamples:\n- Current White Card\n- Training completion certificate\n- Safety induction records"
+      },
+      {
+        "title": "Previous qualifications",
+        "description": "Prior qualifications relevant to building and construction management.\n\nExamples:\n- Diploma of Building and Construction\n- Certificate IV in Building and Construction\n- Related management qualifications\n- Specialized building certificates"
+      },
+      {
+        "title": "Payslips/invoices",
+        "description": "Evidence of work history and employment in senior building management roles.\n\nExamples:\n- Payslips showing management positions\n- Invoices for high-level construction services\n- Employment contracts for management roles\n- Client payment records for large projects"
+      },
+      {
+        "title": "100 pts of ID",
+        "description": "Identification documents meeting 100 point check requirements.\n\nExamples:\n- Passport\n- Driver's license\n- Birth certificate\n- Medicare card"
+      },
+      {
+        "title": "Resume",
+        "description": "Comprehensive resume showing advanced building management experience.\n\nExamples:\n- Detailed resume with senior management roles\n- Project portfolio of complex projects\n- Advanced management responsibilities\n- Major project values and scopes"
+      },
+      {
+        "title": "Reference letter",
+        "description": "Professional references from senior construction industry contacts.\n\nExamples:\n- References from other senior managers or executives\n- Client testimonials for major projects\n- Industry professional endorsements\n- Character references from relevant stakeholders"
+      },
+      {
+        "title": "Project management plans",
+        "description": "Comprehensive project management documentation for large projects.\n\nExamples:\n- Complete project management plans\n- Work breakdown structures\n- Project execution strategies\n- Resource allocation plans\n- Risk management frameworks"
+      },
+      {
+        "title": "Risk management documentation",
+        "description": "Evidence of advanced risk management implementation.\n\nExamples:\n- Risk registers for complex projects\n- Risk management plans and strategies\n- Risk assessment worksheets\n- Risk mitigation implementation\n- Risk monitoring and review records"
+      },
+      {
+        "title": "Contract administration records",
+        "description": "Documentation showing contract management expertise.\n\nExamples:\n- Contract administration documentation\n- Variation management records\n- Payment certifications\n- Claims analysis and responses\n- Contractual correspondence"
+      },
+      {
+        "title": "Building approval documentation",
+        "description": "Evidence of managing building approval processes.\n\nExamples:\n- Building permit applications\n- Planning approval documentation\n- Compliance certificates\n- Authority liaison correspondence\n- Regulatory submission packages"
+      },
+      {
+        "title": "Environmental management plans",
+        "description": "Documentation showing environmental management implementation.\n\nExamples:\n- Site-specific environmental plans\n- Environmental compliance records\n- Waste management strategies\n- Environmental incident reports\n- Sustainability initiatives"
+      },
+      {
+        "title": "Cost estimates and budget reports",
+        "description": "Evidence of financial management for construction projects.\n\nExamples:\n- Detailed cost estimates\n- Budget tracking reports\n- Cost control documentation\n- Financial forecasts and cashflows\n- Value engineering analysis"
+      },
+      {
+        "title": "Project schedules and timelines",
+        "description": "Documentation showing advanced scheduling skills.\n\nExamples:\n- Gantt charts for complex projects\n- Critical path analysis\n- Resource-loaded schedules\n- Progress monitoring reports\n- Schedule recovery strategies"
+      },
+      {
+        "title": "WHS compliance documentation",
+        "description": "Evidence of implementing comprehensive safety systems.\n\nExamples:\n- Safety management plans\n- Hazard identification records\n- Safety inspection reports\n- Incident investigation documentation\n- Safety committee minutes"
+      },
+      {
+        "title": "Quality assurance records",
+        "description": "Documentation showing implementation of quality systems.\n\nExamples:\n- Quality management plans\n- Inspection test plans (ITPs)\n- Non-conformance reports\n- Quality audit records\n- Continuous improvement initiatives"
+      },
+      {
+        "title": "Meeting minutes with stakeholders",
+        "description": "Evidence of stakeholder management and coordination.\n\nExamples:\n- Project meeting minutes\n- Stakeholder consultation records\n- Client briefing documentation\n- Team coordination meetings\n- Conflict resolution documentation"
+      }
     ]
   },
   "CPC10120": {
